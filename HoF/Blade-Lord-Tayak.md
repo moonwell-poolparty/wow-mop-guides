@@ -8,55 +8,56 @@ subtitle: Blade Lord
 
 # 🗡️ [Blade Lord Ta'yak](https://www.wowhead.com/mop-classic/npc=62543/blade-lord-tayak)
 
-#### ✅ Quick Role Checklist – Phase 1
+### ✅ Quick Role Checklist
 
+#### Phase 1
+
+{: .raidleader .fs-3}
 > **RL**:
 > * Call stack on Unseen Strike.
->
+{: .tank .fs-3}
 > **Tanks**:
 > * Swap regularly for Overwhelming Assault.
 > * Manage boss positioning to keep raid clear of tornadoes.
->
+{: .healer .fs-3}
 > **Healers**:
 > * Prepare for burst damage on Wind Step and Unseen Strike.
 > * Watch raid spacing; movement can cause line-of-sight issues.
 > * Stack behind Unseen Strike target to soak.
-> 
+{: .ranged .fs-3}
 > **Ranged DPS**:
 > * Stay **off-center**, near walls to control tornado placement.
 > * Spread out to avoid shared Wind Step.
 > * Stack behind Unseen Strike target to soak.
-> 
+{: .melee .fs-3}
 > **Melee DPS**:
 > * Avoid tornado paths and be ready for burst phases.
 > * Stack behind Unseen Strike target to soak.
 
 ---
 
-#### ✅ Quick Role Checklist – Phase 2
+#### Phase 2
 
+{: .everyone .fs-3}
 > **Everyone**:
 > * Avoid tornadoes at all costs.
 > * Use speed boosts (except **Nitro Boosts** – they can kill you).
 > * Stay in range of healers for AoE healing.
-> 
+> * Push hard – damage ramps up fast with Intensify.
+{: .healer .fs-3}
 > **Healers**:
 > * Ramp up healing throughput for constant damage + Intensify.
 > * Be mobile – stay ahead of tornadoes and within range of the raid.
-> 
-> **DPS**:
-> * Push hard – damage ramps up fast with Intensify.
-> * Avoid tornadoes and position for uptime on boss.
 
 ---
 
-## ⚔️ Phase 1: 100% → 20% HP
+### ⚔️ Phase 1: 100% → 20% HP
 
-### 🔥 Bloodlust/Heroism:
+#### 🔥 Bloodlust/Heroism:
 
 * Use **after first Unseen Strike**, once raid is spread.
 
-### 🧠 Key Mechanics & Responsibilities
+#### 🧠 Key Mechanics & Responsibilities
 
 | **Ability**              | **Timing** | **Description**                                                      | **Role Notes**                                                                                            |
 | ------------------------ | ---------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -68,15 +69,15 @@ subtitle: Blade Lord
 
 ---
 
-## 🌪️ Phase 2: 20% → 0% HP
+### 🌪️ Phase 2: 20% → 0% HP
 
-### 📌 Overview
+#### 📌 Overview
 
 * Raid is **teleported to the corridor**.
 * Ta’yak moves to one end; each player is taken by a tornado to the opposite end.
 * The goal is to **reach Ta’yak**, avoid tornadoes, and **deal damage quickly**.
 
-### 🔑 Key Mechanics & Responsibilities
+#### 🔑 Key Mechanics & Responsibilities
 
 | **Ability**                 | **Timing**   | **Description**                                                | **Role Notes**                                                                         |
 | --------------------------- | ------------ | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
