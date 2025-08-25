@@ -33,7 +33,7 @@ subtitle: Blade Lord
 
 ---
 
-###¤ ✅ Quick Role Checklist – Phase 2
+#### ✅ Quick Role Checklist – Phase 2
 
 > **Everyone**:
 > * Avoid tornadoes at all costs.
