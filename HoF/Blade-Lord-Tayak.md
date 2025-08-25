@@ -6,53 +6,105 @@ nav_order: 3
 subtitle: Blade Lord
 ---
 
-# [Blade Lord Ta'yak](https://www.wowhead.com/mop-classic/npc=62543/blade-lord-tayak)
-Blade Lord Ta'yak is the second boss in the Heart of Fear raid instance. This encounter will check your raid's ability to stack up and spread out. Additionally, the encounter requires that your raid do a solid amount of DPS, as there are two soft-enrage mechanics at play.
+# 🗡️ [Blade Lord Ta'yak](https://www.wowhead.com/mop-classic/npc=62543/blade-lord-tayak)
 
-Introduction
+## 🧾 Overview
 
-The encounter against Blade Lord Ta'yak (henceforth referred to simply as Ta'yak) is a two-phase fight. This is purely a single target fight, during which your only enemy will be Ta'yak himself.
+* **Single target encounter** with two distinct phases.
+* Emphasizes **stacking and spreading**, high **burst DPS**, and **movement**.
+* Includes **two soft enrage mechanics** via **Intensify stacks** and **raid-wide damage in Phase 2**.
 
-Quick check overview
+---
 
-Phase 1 - between 100% and 20% of the boss' health
-- Heroism/Bloodlust/Time Warp immediately after the raid spreads out after the first Unseen Strike.
-- All raid members to spread out as much as possible to avoid Wind Step AOE.
-- Ranged to spread OUT of the middle - spread along the walls to keep Tempest Slash out of the way of the raid.
-- ALL DPS STACK on (slightly behind) target with Unseen Strike *care to avoid knock back into tornados.
-- Tank swap regularly to minimise stacks of Overwhelming Assault.
-- Burst DPS check to deal as much damage to ta'yak as possible, before he gains too many stacks of Intensify.
-- Tanks to be aware of boss positioning and number of Tornados in the area, boss may need moving along to free up space for an effectively spread raid.
+## ⚔️ Phase 1: 100% → 20% HP
 
-Phase 2 - at 20% health
-- Every raid member will be taking ongoing nature damage - Healers ensure raid is topped up before the start of this phase and everyone try and stay in range of healers.
-- If you get hit by a tornado, use your personal defensives until you are back in range of healers.
+### 🔥 Bloodlust/Heroism:
 
-** Nitro Boosts are tempting to use during this phase but not recommended as it's unlikely that healers will be able to save you from a back fire.
+* Use **after first Unseen Strike**, once raid is spread.
 
+### 🧠 Key Mechanics & Responsibilities
 
-Summary
+| **Ability**              | **Timing** | **Description**                                                      | **Role Notes**                                                                                            |
+| ------------------------ | ---------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Tempest Slash**        | \~20–30s   | Tornado aimed at a ranged player, persists for the phase.            | **Ranged**: Stay **against walls** to keep tornadoes away from raid.                                      |
+| **Unseen Strike**        | \~60s      | Cone AoE at marked player, **must be soaked**. Also **knocks back**. | **All DPS**: Stack **slightly behind** the marked target to soak. **Avoid being knocked into tornadoes**. |
+| **Wind Step**            | \~30s      | High damage **DoT** on a random player. AOE application.             | **Everyone**: **Spread out** to prevent multiple players receiving the bleed.                             |
+| **Overwhelming Assault** | \~30s      | Tank debuff: 100% more damage taken from next Assault. 45s duration. | **Tanks**: Swap after each application to drop stacks. Stay aware of tornado positions.                   |
+| **Intensify**            | \~60s      | Stacking haste/damage buff on boss. Soft enrage.                     | **DPS**: Push hard to minimize stack count.                                                               |
 
-Phase One lasts between 100% and 20% of the boss' health. During this time, the boss will use several abilities against your raid, which mainly require that you stack up and spread out in a coordinated manner.
+---
 
-Ability - Timing - Detail - Roles
+### ✅ Quick Role Checklist – Phase 1
 
-Tempest Slash - Every 20-30 seconds - Tornado aimed at ranged dps and stays in the area dropped for the duration of this phase - Ranged players must stay out of the middle spreading along the walls to keep tornados out of the way of the raid.
-Unseen Sitrke - Every 60 seconds - Hunter's Mark will be cast on a random raid member. 5 seconds after that, Ta'yak will cast a cone of heavy damage at the player and anyone next to them - This must be SOAKED by as many raid members as possible so ALL dps in range must STACK on (slightly behind) target. *Note this will also knock players back so ensure you position yourself in a way that doesnt mean you'll get knocked back into a tornado.
-Wind Step - Every 30 seconds - High damage bleed dot applied to random raid member that lasts 30 seconds - Application of the dot is AOE so anyone next to the target will also receive the dot so spread out as much as possible for the duration of this phase.
-Overwhelming Assault - Every 30 seconds - Debuff on tank for 45 seconds causing 100% additional damage from Overwhelming Strike - Tank swap regularly to avoid stacking debuff and allowing the first dot to drop before swapping again. 
-Intensify - Every 60 seconds - Ta'yak gains a stack of intesify, which increases his haste and damage done by 5% per stack.
+* **Tanks**:
 
+  * Swap regularly for Overwhelming Assault.
+  * Manage boss positioning to keep raid clear of tornadoes.
 
-Phase Two begins at 20% health. During this phase, your raid will mostly have to dodge oncoming tornadoes, and deal damage to the boss. This phase places high emphasis on movement and speed.
+* **Healers**:
 
-Everyone is teleported to the centre of the corridor and every raid member is taken, by their own tornado, to one end of the corridor whilst Ta'yak goes to the opposite end.
+  * Prepare for burst damage on Wind Step and Unseen Strike.
+  * Watch raid spacing; movement can cause line-of-sight issues.
 
-Ability - Timing - Detail - Roles
+* **Ranged DPS**:
 
-Tornados - Throughout - Tornados will spawn at Ta'yak and move slowly down the corridor towards the raid - Players to reach Taýak as fast as possible, avoiding Tornados and continue to avoid new spawns of tornados whilst dealing damage.
-Raid wide nature damage - Every second - A moderate amount of nature damage is deakt to the raid every second during this phase.
-Intensify - Every 10 seconds - Stacks applied faster and also applies to the raid wide nature damage - Healers to be aware of increasing damage, DPS to be aware of their range to healers and avoid taking extra damage from Tornados.
-Switch - At 10% - At 10% the boss switches to the other end of the room and the tornados switch directions - Repeat the sprint to the boss, avoiding tornados.
+  * Stay **off-center**, near walls to control tornado placement.
+  * Spread out to avoid shared Wind Step.
 
+* **Melee DPS**:
 
+  * Stack behind Unseen Strike target to soak.
+  * Avoid tornado paths and be ready for burst phases.
+
+---
+
+## 🌪️ Phase 2: 20% → 0% HP
+
+### 📌 Overview
+
+* Raid is **teleported to the corridor**.
+* Ta’yak moves to one end; each player is taken by a tornado to the opposite end.
+* The goal is to **reach Ta’yak**, avoid tornadoes, and **deal damage quickly**.
+
+### 🔑 Key Mechanics & Responsibilities
+
+| **Ability**                 | **Timing**   | **Description**                                                | **Role Notes**                                                                         |
+| --------------------------- | ------------ | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Tornado Corridor**        | Throughout   | Tornadoes move from Ta’yak toward the raid.                    | **Everyone**: Dodge tornadoes while sprinting to the boss. Use **mobility** abilities. |
+| **Raid-wide Nature Damage** | Every second | Constant ticking damage to all players.                        | **Healers**: Prepare for sustained AoE. **DPS/All**: Stay within healing range.        |
+| **Intensify**               | Every 10s    | Now increases both boss damage and nature DoT.                 | **Healers**: Expect rising damage. **DPS**: Burn boss quickly.                         |
+| **Switch**                  | At 10%       | Ta’yak teleports to opposite side; tornados reverse direction. | **Everyone**: Repeat dodge/sprint mechanics. Watch for new tornado spawns.             |
+
+---
+
+### ✅ Quick Role Checklist – Phase 2
+
+* **Everyone**:
+
+  * Avoid tornadoes at all costs.
+  * Use speed boosts (except **Nitro Boosts** – they can kill you).
+  * Stay in range of healers for AoE healing.
+
+* **Healers**:
+
+  * Ramp up healing throughput for constant damage + Intensify.
+  * Be mobile – stay ahead of tornadoes and within range of the raid.
+
+* **DPS**:
+
+  * Push hard – damage ramps up fast with Intensify.
+  * Avoid tornadoes and position for uptime on boss.
+
+---
+
+## 🧬 Final Notes
+
+* **This fight rewards spatial awareness and positioning**.
+* Success depends on:
+
+  * Managing tornado placements in Phase 1.
+  * Soaking Unseen Strike properly.
+  * High DPS to beat the soft enrage.
+  * Dodging and staying alive in the corridor in Phase 2.
+
+---
