@@ -8,25 +8,33 @@ color_scheme: dark
 callouts:
   tank:
     title: Tank
-    color: blue
+    color: "rgba(100, 149, 237, 0.25)"   # softer blue (CornflowerBlue)
+
   healer:
     title: Healer
-    color: green
+    color: "rgba(144, 238, 144, 0.25)"   # soft green (LightGreen)
+
   melee:
     title: Melee DPS
-    color: red
+    color: "rgba(255, 99, 71, 0.25)"     # stronger red (Tomato)
+
   ranged:
     title: Ranged DPS
-    color: red
+    color: "rgba(255, 182, 193, 0.25)"   # softer pink (LightPink)
+
   raidlead:
     title: Raidlead
-    color: red
+    color: "rgba(255, 69, 0, 0.25)"      # bright orange-red
+
   everyone:
     title: Everyone
-    color: yellow
-  normal:
+    color: "rgba(255, 255, 0, 0.25)"     # yellow
+
+  normals:
     title: Normal
-    color: blue
+    color: "rgba(30, 144, 255, 0.25)"    # stronger blue (DodgerBlue)
+
   heroic:
     title: Heroic
-    color: yellow
+    color: "rgba(255, 215, 0, 0.25)"     # gold
+
