@@ -12,25 +12,20 @@ subtitle: Blade Lord
 
 #### Phase 1
 
-{: .raidleader .fs-3}
-> **RL**:
+{: .raidlead .fs-3}
 > * Call stack on Unseen Strike.
 {: .tank .fs-3}
-> **Tanks**:
 > * Swap regularly for Overwhelming Assault.
 > * Manage boss positioning to keep raid clear of tornadoes.
 {: .healer .fs-3}
-> **Healers**:
 > * Prepare for burst damage on Wind Step and Unseen Strike.
 > * Watch raid spacing; movement can cause line-of-sight issues.
 > * Stack behind Unseen Strike target to soak.
 {: .ranged .fs-3}
-> **Ranged DPS**:
 > * Stay **off-center**, near walls to control tornado placement.
 > * Spread out to avoid shared Wind Step.
 > * Stack behind Unseen Strike target to soak.
 {: .melee .fs-3}
-> **Melee DPS**:
 > * Avoid tornado paths and be ready for burst phases.
 > * Stack behind Unseen Strike target to soak.
 
@@ -39,13 +34,11 @@ subtitle: Blade Lord
 #### Phase 2
 
 {: .everyone .fs-3}
-> **Everyone**:
 > * Avoid tornadoes at all costs.
 > * Use speed boosts (except **Nitro Boosts** – they can kill you).
 > * Stay in range of healers for AoE healing.
 > * Push hard – damage ramps up fast with Intensify.
 {: .healer .fs-3}
-> **Healers**:
 > * Ramp up healing throughput for constant damage + Intensify.
 > * Be mobile – stay ahead of tornadoes and within range of the raid.
 
