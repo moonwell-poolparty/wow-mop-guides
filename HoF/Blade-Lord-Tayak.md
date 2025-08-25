@@ -10,37 +10,27 @@ subtitle: Blade Lord
 
 ### ✅ Quick Role Checklist – Phase 1
 
-* **RL**:
-  * Call stack on Unseen Strike.
-* **Tanks**:
-  * Swap regularly for Overwhelming Assault.
-  * Manage boss positioning to keep raid clear of tornadoes.
-* **Healers**:
-  * Prepare for burst damage on Wind Step and Unseen Strike.
-  * Watch raid spacing; movement can cause line-of-sight issues.
-  * Stack behind Unseen Strike target to soak.
-* **Ranged DPS**:
-  * Stay **off-center**, near walls to control tornado placement.
-  * Spread out to avoid shared Wind Step.
-  * Stack behind Unseen Strike target to soak.
-* **Melee DPS**:
-  * Avoid tornado paths and be ready for burst phases.
-  * Stack behind Unseen Strike target to soak.
+| Role              | Phase 1 (Normal)                                                                                  | Phase 1 (Heroic)                                                                                         | Phase 2 (Normal)                                                                                          | Phase 2 (Heroic)                                                                                                      |
+|-------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 🛡️ **Tank**       | • Swap at ~2 stacks of **Overwhelming Assault**. <br> • Position boss near middle. <br> • Move slightly for tornado spawns. | • Swap at 2 stacks. <br> • Handle extra tornado placement carefully. <br> • Coordinate defensives for higher damage. | • Pick up boss at one end of the hallway. <br> • Keep him steady for DPS to catch up.                      | • Same as normal, but more healing pressure. <br> • Use personals + externals during transitions.                      |
+| ❤️ **Healer**     | • Watch tank for **Overwhelming Assault** spikes. <br> • Heal random damage from Unseen Strike. <br> • Spread loosely. | • Extra AoE healing during heroic **Unseen Strike**. <br> • Stay aware of tornado positioning.            | • Heal while moving down hallway. <br> • Top players after Wind Step damage.                              | • Very high movement healing required. <br> • Coordinate raid cooldowns. <br> • Spot heal players caught by tornados. |
+| ⚔️ **Melee DPS**  | • Stack for **Unseen Strike** soak. <br> • Dodge tornados. <br> • Stay behind boss. | • Same as normal but higher incoming damage. <br> • Pay extra attention to tornado gaps. | • Follow boss down hallway. <br> • Keep DPS uptime while dodging. | • Same as normal with more damage taken. <br> • Prioritize survival over DPS. |
+| 🎯 **Ranged DPS** | • Stack for **Unseen Strike** soak when targeted. <br> • Spread out otherwise. <br> • Avoid tornados. | • Same as normal, with faster tornado movement. <br> • Plan defensive cooldowns for overlaps. | • DPS while moving down hallway. <br> • Use instants while dodging tornados. | • Same as normal, but damage intake much higher. <br> • Use personals proactively. |
+| 🌍 **Everyone**   | • Group stack for **Unseen Strike**. <br> • Avoid tornados. <br> • Watch positioning. | • Same as normal, with tighter tornado lanes. <br> • Use raid CDs for high-damage **Unseen Strikes**. | • Run down hallway together. <br> • Avoid tornados. <br> • Stay in healing range. | • Same as normal, but heavier movement damage. <br> • Maximum focus on dodging. |
+| 📢 **Raidlead**   | • Call tank swaps. <br> • Assign stack groups for **Unseen Strike**. <br> • Remind tornado dodging. | • Coordinate defensive/raid CDs for **Unseen Strikes**. <br> • Assign tornado positions early. | • Call direction and timing for hallway run. <br> • Remind raid to stay grouped. | • Coordinate healing cooldowns. <br> • Remind players of defensive usage. <br> • Keep raid calm during heavy movement. |
 
 ---
 
-### ✅ Quick Role Checklist – Phase 2
+## Condensed Cheat-Sheet (Quick Glance)
 
-* **Everyone**:
-  * Avoid tornadoes at all costs.
-  * Use speed boosts (except **Nitro Boosts** – they can kill you).
-  * Stay in range of healers for AoE healing.
-* **Healers**:
-  * Ramp up healing throughput for constant damage + Intensify.
-  * Be mobile – stay ahead of tornadoes and within range of the raid.
-* **DPS**:
-  * Push hard – damage ramps up fast with Intensify.
-  * Avoid tornadoes and position for uptime on boss.
+| Role              | P1 Normal                 | P1 Heroic                 | P2 Normal          | P2 Heroic            |
+|-------------------|---------------------------|---------------------------|--------------------|----------------------|
+| 🛡️ **Tank**       | Swap 2 stacks, center     | Swap 2 stacks, defensives | Hold boss hallway  | Externals, survive   |
+| ❤️ **Healer**     | Tank spikes, AoE heal     | More AoE, watch tornados  | Heal on move       | CDs, heavy movement  |
+| ⚔️ **Melee DPS**  | Stack soak, dodge         | Soak + higher dmg         | Follow boss, DPS   | Survive > DPS        |
+| 🎯 **Ranged DPS** | Soak, spread, dodge       | Faster tornados, CDs      | Instants on move   | Defensives, survive  |
+| 🌍 **Everyone**   | Stack soak, dodge         | Stack + raid CDs          | Run together, dodge| Heavy dmg, dodge     |
+| 📢 **Raidlead**   | Call swaps, assign soak   | CDs for soaks, tornado pos| Call hallway run   | Call CDs, calm raid  |
 
 ---
 
