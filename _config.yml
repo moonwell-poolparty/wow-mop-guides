@@ -3,6 +3,7 @@ description: Guides and tips & tricks
 theme: just-the-docs
 
 url: https://moonwell-poolparty.github.io/wow-mop-guides
+color_scheme: dark
 
 callouts:
   tank:
