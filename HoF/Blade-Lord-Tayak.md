@@ -14,17 +14,21 @@ subtitle: Blade Lord
 
 {: .raidlead .fs-3}
 > * Call stack on Unseen Strike.
+
 {: .tank .fs-3}
 > * Swap regularly for Overwhelming Assault.
 > * Manage boss positioning to keep raid clear of tornadoes.
+
 {: .healer .fs-3}
 > * Prepare for burst damage on Wind Step and Unseen Strike.
 > * Watch raid spacing; movement can cause line-of-sight issues.
 > * Stack behind Unseen Strike target to soak.
+
 {: .ranged .fs-3}
 > * Stay **off-center**, near walls to control tornado placement.
 > * Spread out to avoid shared Wind Step.
 > * Stack behind Unseen Strike target to soak.
+
 {: .melee .fs-3}
 > * Avoid tornado paths and be ready for burst phases.
 > * Stack behind Unseen Strike target to soak.
@@ -38,6 +42,7 @@ subtitle: Blade Lord
 > * Use speed boosts (except **Nitro Boosts** – they can kill you).
 > * Stay in range of healers for AoE healing.
 > * Push hard – damage ramps up fast with Intensify.
+
 {: .healer .fs-3}
 > * Ramp up healing throughput for constant damage + Intensify.
 > * Be mobile – stay ahead of tornadoes and within range of the raid.
