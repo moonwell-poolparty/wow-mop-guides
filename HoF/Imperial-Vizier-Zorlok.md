@@ -17,7 +17,7 @@ At each platform, a new mechanic will be introduced and in the middle, all mecha
 
 ## First platform
 
-A spell called [FW](https://www.wowhead.com/spell=122718) will be cast. Just before the spell is cast, three shields will be placed on the ground.
+A spell called [**Force and Verve**](https://www.wowhead.com/spell=122718) will be cast. Just before the spell is cast, three shields will be placed on the ground.
 One shield next to him, one 10 yards away and the last 20 yards away.
 
 25M NM: Three shields, 9 in each shield
