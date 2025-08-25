@@ -13,10 +13,10 @@ callouts:
     color: green
   melee:
     title: Melee DPS
-    color: purple
+    color: pink
   ranged:
     title: Ranged DPS
-    color: orange
+    color: pink
   raidlead:
     title: Raidlead
     color: red
