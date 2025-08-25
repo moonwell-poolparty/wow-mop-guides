@@ -27,6 +27,7 @@ Phase 1 - between 100% and 20% of the boss' health
 Phase 2 - at 20% health
 - Every raid member will be taking ongoing nature damage - Healers ensure raid is topped up before the start of this phase and everyone try and stay in range of healers.
 - If you get hit by a tornado, use your personal defensives until you are back in range of healers.
+
 ** Nitro Boosts are tempting to use during this phase but not recommended as it's unlikely that healers will be able to save you from a back fire.
 
 
