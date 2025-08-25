@@ -6,8 +6,6 @@ nav_order: 2
 subtitle: Vizier
 ---
 
-{% include fonts.html %}
-
 # [Imperial Vizier Zor'lok](https://www.wowhead.com/mop-classic/npc=62980/imperial-vizier-zorlok)
 *Last updated: 2025-08-25*
 
