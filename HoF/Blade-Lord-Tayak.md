@@ -8,11 +8,39 @@ subtitle: Blade Lord
 
 # 🗡️ [Blade Lord Ta'yak](https://www.wowhead.com/mop-classic/npc=62543/blade-lord-tayak)
 
-## 🧾 Overview
+### ✅ Quick Role Checklist – Phase 1
 
-* **Single target encounter** with two distinct phases.
-* Emphasizes **stacking and spreading**, high **burst DPS**, and **movement**.
-* Includes **two soft enrage mechanics** via **Intensify stacks** and **raid-wide damage in Phase 2**.
+* **RL**:
+  * Call stack on Unseen Strike.
+* **Tanks**:
+  * Swap regularly for Overwhelming Assault.
+  * Manage boss positioning to keep raid clear of tornadoes.
+* **Healers**:
+  * Prepare for burst damage on Wind Step and Unseen Strike.
+  * Watch raid spacing; movement can cause line-of-sight issues.
+  * Stack behind Unseen Strike target to soak.
+* **Ranged DPS**:
+  * Stay **off-center**, near walls to control tornado placement.
+  * Spread out to avoid shared Wind Step.
+  * Stack behind Unseen Strike target to soak.
+* **Melee DPS**:
+  * Avoid tornado paths and be ready for burst phases.
+  * Stack behind Unseen Strike target to soak.
+
+---
+
+### ✅ Quick Role Checklist – Phase 2
+
+* **Everyone**:
+  * Avoid tornadoes at all costs.
+  * Use speed boosts (except **Nitro Boosts** – they can kill you).
+  * Stay in range of healers for AoE healing.
+* **Healers**:
+  * Ramp up healing throughput for constant damage + Intensify.
+  * Be mobile – stay ahead of tornadoes and within range of the raid.
+* **DPS**:
+  * Push hard – damage ramps up fast with Intensify.
+  * Avoid tornadoes and position for uptime on boss.
 
 ---
 
@@ -34,30 +62,6 @@ subtitle: Blade Lord
 
 ---
 
-### ✅ Quick Role Checklist – Phase 1
-
-* **Tanks**:
-
-  * Swap regularly for Overwhelming Assault.
-  * Manage boss positioning to keep raid clear of tornadoes.
-
-* **Healers**:
-
-  * Prepare for burst damage on Wind Step and Unseen Strike.
-  * Watch raid spacing; movement can cause line-of-sight issues.
-
-* **Ranged DPS**:
-
-  * Stay **off-center**, near walls to control tornado placement.
-  * Spread out to avoid shared Wind Step.
-
-* **Melee DPS**:
-
-  * Stack behind Unseen Strike target to soak.
-  * Avoid tornado paths and be ready for burst phases.
-
----
-
 ## 🌪️ Phase 2: 20% → 0% HP
 
 ### 📌 Overview
@@ -74,37 +78,5 @@ subtitle: Blade Lord
 | **Raid-wide Nature Damage** | Every second | Constant ticking damage to all players.                        | **Healers**: Prepare for sustained AoE. **DPS/All**: Stay within healing range.        |
 | **Intensify**               | Every 10s    | Now increases both boss damage and nature DoT.                 | **Healers**: Expect rising damage. **DPS**: Burn boss quickly.                         |
 | **Switch**                  | At 10%       | Ta’yak teleports to opposite side; tornados reverse direction. | **Everyone**: Repeat dodge/sprint mechanics. Watch for new tornado spawns.             |
-
----
-
-### ✅ Quick Role Checklist – Phase 2
-
-* **Everyone**:
-
-  * Avoid tornadoes at all costs.
-  * Use speed boosts (except **Nitro Boosts** – they can kill you).
-  * Stay in range of healers for AoE healing.
-
-* **Healers**:
-
-  * Ramp up healing throughput for constant damage + Intensify.
-  * Be mobile – stay ahead of tornadoes and within range of the raid.
-
-* **DPS**:
-
-  * Push hard – damage ramps up fast with Intensify.
-  * Avoid tornadoes and position for uptime on boss.
-
----
-
-## 🧬 Final Notes
-
-* **This fight rewards spatial awareness and positioning**.
-* Success depends on:
-
-  * Managing tornado placements in Phase 1.
-  * Soaking Unseen Strike properly.
-  * High DPS to beat the soft enrage.
-  * Dodging and staying alive in the corridor in Phase 2.
 
 ---
