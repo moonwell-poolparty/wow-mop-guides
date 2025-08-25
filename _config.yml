@@ -5,6 +5,24 @@ theme: just-the-docs
 url: https://moonwell-poolparty.github.io/wow-mop-guides
 
 callouts:
+  tank:
+    title: Tank
+    color: blue
+  healer:
+    title: Healer
+    color: green
+  melee:
+    title: Melee DPS
+    color: purple
+  ranged:
+    title: Ranged DPS
+    color: orange
+  raidlead:
+    title: Raidlead
+    color: red
+  everyone:
+    title: Everyone
+    color: yellow
   normal:
     title: Normal
     color: blue
