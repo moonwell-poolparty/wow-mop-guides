@@ -3,3 +3,11 @@ description: Guides and tips & tricks
 theme: just-the-docs
 
 url: https://moonwell-poolparty.github.io/wow-mop-guides
+
+callouts:
+  normal:
+    title: Normal
+    color: blue
+  heroic:
+    title: Heroic
+    color: yellow
