@@ -10,7 +10,7 @@ subtitle: Blade Lord
 
 ### ✅ Quick Role Checklist
 
-#### Phase 1
+#### Phase 1: 100% → 20% HP
 
 {: .raidlead .fs-3}
 > * Call stack on Unseen Strike.
@@ -35,7 +35,7 @@ subtitle: Blade Lord
 
 ---
 
-#### Phase 2
+#### Phase 2: 20% → 0% HP
 
 {: .everyone .fs-3}
 > * Avoid tornadoes at all costs.
@@ -49,13 +49,12 @@ subtitle: Blade Lord
 
 ---
 
-### ⚔️ Phase 1: 100% → 20% HP
+### 🧠 Key Mechanics & Responsibilities
 
 #### 🔥 Bloodlust/Heroism:
-
 * Use **after first Unseen Strike**, once raid is spread.
 
-#### 🧠 Key Mechanics & Responsibilities
+#### ⚔️ Phase 1: 100% → 20% HP
 
 | **Ability**              | **Timing** | **Description**                                                      | **Role Notes**                                                                                            |
 | ------------------------ | ---------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -67,15 +66,11 @@ subtitle: Blade Lord
 
 ---
 
-### 🌪️ Phase 2: 20% → 0% HP
-
-#### 📌 Overview
+#### 🌪️ Phase 2: 20% → 0% HP
 
 * Raid is **teleported to the corridor**.
 * Ta’yak moves to one end; each player is taken by a tornado to the opposite end.
 * The goal is to **reach Ta’yak**, avoid tornadoes, and **deal damage quickly**.
-
-#### 🔑 Key Mechanics & Responsibilities
 
 | **Ability**                 | **Timing**   | **Description**                                                | **Role Notes**                                                                         |
 | --------------------------- | ------------ | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
