@@ -65,12 +65,12 @@ subtitle: Amber-Shaper
 > * When Mutated Constructs, consume Burning Amber if low Willpower.
 > * When Mutated Constructs, interrupt your own Amber Explosion.
 
-### Phase 1: 100% → 70% HP
+### 🧠 Key Mechanics & Responsibilities
 
-### 🔥 Bloodlust / Heroism Timing
+#### 🔥 Bloodlust / Heroism Timing
 * Recommended: Use in Phase 3 burn. • Optional: Use in Phase 2 if struggling with Monstrosity DPS.
 
-#### 🧠 Key Mechanics & Responsibilities
+#### Phase 1: 100% → 70% HP
 
 | **Ability**              | **Timing** | **Description**                                                      | **Role Notes**                                             |
 | ------------------------ | ---------- | -------------------------------------------------------------------- | -----------------------------------------------------------|
@@ -81,7 +81,7 @@ subtitle: Amber-Shaper
 | **Reshape Life**         | \~50s      | Transforms players into Mutated Constructs.                          | **DPS**: Push hard to minimize stack count.                |
 | **Amber Explosion**      |            | Varies Raid-wide burst from Constructs.                              | Construct interrupts self with Struggle for Control        |
 
-### Phase 2: 70% → Amber Monstrosity Dead
+#### Phase 2: 70% → Amber Monstrosity Dead
 
 | **Ability**                      | **Timing** | **Description**                                 | **Role Notes**                                 |
 | -------------------------------- | ---------- | ------------------------------------------------| -----------------------------------------------|
@@ -91,7 +91,7 @@ subtitle: Amber-Shaper
 | **Reshape Life**                 | \~45s      | Transforms players into Mutated Constructs.     | **DPS**: Push hard to minimize stack count.    |
 
 
-### Phase 3: Burn Phase
+#### Phase 3: Burn Phase
 
 | **Ability**                      | **Timing** | **Description**                                 | **Role Notes**                                 |
 | -------------------------------- | ---------- | ------------------------------------------------| -----------------------------------------------|
