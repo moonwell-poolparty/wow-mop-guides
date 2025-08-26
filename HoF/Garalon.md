@@ -8,28 +8,31 @@ subtitle: Garalon
 
 # [Garalon](https://www.wowhead.com/mop-classic/npc=61398/garalon)
 
-### ​ Quick Role Checklist
+### ✅ Quick Role Checklist
 
-#### Single-Phase Fight
+{: .everyone .fs-3}
+> * **Never stand underneath Garalon’s body**. 
 
 {: .raidlead .fs-3}
-> * Call tank swaps and leg target assignments.
+> * Assign a **pheromone rotation** (swap around 15-18 stacks).   
+> * Remind raid to avoid standing under boss.  
 
 {: .tank .fs-3}
-> * Always face Garalon into melee.  
-> * Both tanks hit by **Furious Swipe**.
+> * Stand in front of boss and **share Furious Swipe** (2 players minimum).  
+> * Keep Garalon facing away from raid.  
 
 {: .healer .fs-3}
-> * Raid-wide healing under **Crush**.  
-> * Manage cooldowns during pheromone passing.
+> * Expect high raid damage from **Pheromones** and **Crush**.  
+> * Use cooldowns during pheromone swaps and Crush casts.  
+> * Watch kiter health when moving with pheromones.  
 
 {: .ranged .fs-3}
-> * Avoid standing in front.  
-> * Assist DPS on legs; move pheromones outside.
+> * Avoid boss front to dodge **Furious Swipe**.  
+> * If assigned to kiting pheromones, move in a safe outer path and swap on time.  
 
 {: .melee .fs-3}
-> * Stay in leg buff circles when safe.  
-> * Avoid standing under boss to prevent **Crush**.
+> * Stand in glowing leg circles for the DPS buff on that leg.
+> * Stay clear of boss hitbox during **Crush** to avoid lethal damage.  
 
 ---
 
@@ -41,13 +44,3 @@ subtitle: Garalon
 | **Legs**          | Ongoing          | Each leg killed slows and damages boss. Legs revive periodically.        | DPS priority: burn legs fast, especially early.         |
 | **Crush**         | ~35 s / when under boss | Devastating AOE or lethal if under boss. Stuns.                            | Everyone avoid boss body; raid topped off.              |
 | **Furious Swipe** | ~10 s            | Frontal cone – if <2 players get hit, boss gains Fury stacks increasing damage. | Tanks must absorb this each time.                        |
-
----
-
-###  Strategy Summary
-- Start with designated kiter (often ranged) to take first **Pheromones**.  
-- DPS legs quickly from the start to slow boss movement.  
-- Tanks absorb each **Swipe** in front.  
-- Move the pheromone target outward, pass it on time.  
-- Keep full raid topped before each **Crush**.
-
