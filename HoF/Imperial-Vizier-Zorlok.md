@@ -3,73 +3,86 @@ layout: post
 title: Imperial Vizier Zor'lok
 parent: Heart of Fear
 nav_order: 1
-subtitle: Zor'lok
+subtitle: Imperial Vizier Zor'lok
 ---
 
 # [Imperial Vizier Zor'lok](https://www.wowhead.com/mop-classic/npc=61284/imperial-vizier-zorlok)
 
-### ​ Quick Role Checklist
+---
 
-#### Phase 1 (100% → 40%)
+### ✅ Quick Role Checklist
+
+#### Phase 1 – Platform Abilities
 
 {: .raidlead .fs-3}
-> * Coordinate movement between platforms swiftly.  
-> * Call shield group assignments.
+> * Assign safe zones for **Force & Verve**.  
+> * Call interrupts for **Convert** targets.  
 
 {: .tank .fs-3}
-> * Intercept **Exhale** beams.  
-> * Face boss away.
+> * Pick boss up quickly after each platform swap.  
 
 {: .healer .fs-3}
-> * Prepare for incoming raid-wide **Force and Verve**.  
-> * Provide shields before **Attenuation** waves.
+> * Save raid cooldowns for **Force & Verve**.  
+> * Heal through **Attenuation** chip damage.  
 
 {: .ranged .fs-3}
-> * Spread behind boss to intercept spells safely.  
-> * Ranged DPS split under shields during *Force and Verve*.
+> * Interrupt allies under **Convert** immediately.  
+> * Spread and dodge **Attenuation** discs.  
 
 {: .melee .fs-3}
-> * Keep clear of disks from *Attenuation*.  
-> * Melee group under first shield during *Force and Verve*.
+> * Stay mobile, especially during **Attenuation**.  
+> * Enter safe zones for **Force & Verve**.  
 
 ---
 
-### Phase 2 (40% → 0%)
+#### Phase 2 – Final Platform (40%)
+
+{: .everyone .fs-3}
+> * All abilities overlap — highest movement + awareness required.  
+> * Burn phase: save cooldowns.  
 
 {: .raidlead .fs-3}
-> * Send one group to corner to manage Echo add.  
-> * Coordinate interrupts on any cast overlaps.
+> * Call first **Force & Verve** + **Convert** quickly.  
+> * Rotate healing and defensive cooldowns.  
 
 {: .tank .fs-3}
-> * Off-tank/Healer take Echo if spawned near.
+> * Position boss mid-room for dodge space.  
+> * Be ready for spike damage.  
 
 {: .healer .fs-3}
-> * High AoE healing for disks + echo survival.
+> * Constant raid damage + interrupts needed.  
+> * Rotate cooldowns with raidlead direction.  
 
-{: .dps .fs-3}
-> * Focus boss burn.  
-> * Move Echo away from raid.
+{: .ranged .fs-3}
+> * Keep breaking **Convert** quickly.  
+> * Balance dodging Attenuation with safe zone positioning.  
 
----
-
-### Phase 1: 100% → 40%
-
-###  ​ Bloodlust / Heroism Timing
-* Recommended: Use once Phase 2 begins.
-
-####  Key Mechanics & Responsibilities
-| **Ability**               | **Timing**        | **Description**                                               | **Role Notes**                               |
-|---------------------------|-------------------|---------------------------------------------------------------|----------------------------------------------|
-| **Force and Verve**       | ~45 s channel     | Massive raid-wide Physical damage, but 3 spawn shields protect. | Raid: stack under shields. Healers: pre-heal.|
-| **Attenuation**           | ~45 s             | Disks fire out in pattern, hitting the raid if unprepared.     | Raid: circle around boss, avoid disks.       |
-| **Convert**               | ~60 s             | Mind control on multiple players.                              | Everyone: be ready to break each other out.  |
+{: .melee .fs-3}
+> * Very high mobility phase — don’t miss **Force & Verve** safe zones.  
+> * Maintain DPS uptime while dodging discs.  
 
 ---
 
-### Phase 2: 40% → 0%
+### Phase 1: Platform Abilities
 
-| **Mechanic**      | **Description**                            | **Role Notes**                                    |
-|-------------------|--------------------------------------------|--------------------------------------------------|
-| **Echo of Attenuation** | Creates add that channels Attenuation.       | Raidlead: assign tank/healer; move it corner.   |
-| **Simultaneous Attenuation** | Boss and echo may both cast.               | Raid: anticipate double disk patterns.           |
+#### 🧠 Key Mechanics & Responsibilities
 
+| **Ability**           | **Timing** | **Description**                                                      | **Role Notes**                                    |
+|-----------------------|------------|----------------------------------------------------------------------|--------------------------------------------------|
+| **Pheromones of Zeal**| Transition | Gas clouds between platforms, silence + damage.                      | Everyone: avoid when moving between platforms.   |
+| **Force & Verve**     | \~40s      | Raid-wide AoE. Stand in noise zones to reduce damage.                 | Raidlead assigns zones; healers use cooldowns.   |
+| **Attenuation**       | \~30s      | Spiraling discs sweep outward, dealing Physical damage.               | Everyone dodges.                                 |
+| **Convert**           | \~45s      | Several players mind controlled until 50% HP.                         | Ranged/melee interrupt + DPS down quickly.       |
+
+---
+
+### Phase 2: Final Platform (40%)
+
+#### 🧠 Key Mechanics & Responsibilities
+
+| **Ability**           | **Timing** | **Description**                                                      | **Role Notes**                                    |
+|-----------------------|------------|----------------------------------------------------------------------|--------------------------------------------------|
+| **Force & Verve**     | Frequent   | Same as P1, cast faster.                                             | Rotate healing cooldowns, don’t miss safe zones. |
+| **Attenuation**       | Frequent   | Discs faster + overlap with other mechanics.                         | Dodge while handling other mechanics.            |
+| **Convert**           | Frequent   | Mind controls during overlaps.                                        | Interrupt/DPS quickly; healers beware miscasts.  |
+| **Enrage (Soft)**     | Final Burn | All mechanics overlap until death.                                   | Burn boss ASAP.                                  |
