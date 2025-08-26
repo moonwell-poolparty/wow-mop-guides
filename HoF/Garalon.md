@@ -36,7 +36,7 @@ subtitle: Garalon
 
 ---
 
-###  Key Mechanics & Responsibilities
+### 🧠 Key Mechanics & Responsibilities
 
 | **Ability**       | **Timing**       | **Description**                                                         | **Role Notes**                                          |
 |-------------------|------------------|-------------------------------------------------------------------------|---------------------------------------------------------|
