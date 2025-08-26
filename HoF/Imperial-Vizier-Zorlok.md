@@ -2,26 +2,74 @@
 layout: post
 title: Imperial Vizier Zor'lok
 parent: Heart of Fear
-nav_order: 2
-subtitle: Zorlok
+nav_order: 1
+subtitle: Zor'lok
 ---
 
-# [Imperial Vizier Zor'lok](https://www.wowhead.com/mop-classic/npc=62980/imperial-vizier-zorlok)
-*Last updated: 2025-08-25*
+# [Imperial Vizier Zor'lok](https://www.wowhead.com/mop-classic/npc=61284/imperial-vizier-zorlok)
 
-Zor'lok will at start at the right most platform and at 80% fly to the right most, 60% to the one furthest back and at 40% fly to the middle.
-At each platform, a new mechanic will be introduced and in the middle, all mechanics will be active simultaneously.
+### ​ Quick Role Checklist
 
-### When pulling Vizier, let the tank get aggro onto the right platform before dpsing.
-<br>
+#### Phase 1 (100% → 40%)
 
-## First platform
+{: .raidlead .fs-3}
+> * Coordinate movement between platforms swiftly.  
+> * Call shield group assignments.
 
-A spell called [**Force and Verve**](https://www.wowhead.com/spell=122718/force-and-verve) will be cast. Just before the spell is cast, three shields will be placed on the ground.
-One shield next to him, one 10 yards away and the last 20 yards away.
+{: .tank .fs-3}
+> * Intercept **Exhale** beams.  
+> * Face boss away.
 
-25M NM: Three shields, 9 in each shield
-25M HC: Four shields shields, 7 in each shield
+{: .healer .fs-3}
+> * Prepare for incoming raid-wide **Force and Verve**.  
+> * Provide shields before **Attenuation** waves.
 
-{: .important .fs-3}
-RL: Make sure to designate who goes where before pull.
+{: .ranged .fs-3}
+> * Spread behind boss to intercept spells safely.  
+> * Ranged DPS split under shields during *Force and Verve*.
+
+{: .melee .fs-3}
+> * Keep clear of disks from *Attenuation*.  
+> * Melee group under first shield during *Force and Verve*.
+
+---
+
+### Phase 2 (40% → 0%)
+
+{: .raidlead .fs-3}
+> * Send one group to corner to manage Echo add.  
+> * Coordinate interrupts on any cast overlaps.
+
+{: .tank .fs-3}
+> * Off-tank/Healer take Echo if spawned near.
+
+{: .healer .fs-3}
+> * High AoE healing for disks + echo survival.
+
+{: .dps .fs-3}
+> * Focus boss burn.  
+> * Move Echo away from raid.
+
+---
+
+### Phase 1: 100% → 40%
+
+###  ​ Bloodlust / Heroism Timing
+* Recommended: Use once Phase 2 begins.
+
+####  Key Mechanics & Responsibilities
+| **Ability**               | **Timing**        | **Description**                                               | **Role Notes**                               |
+|---------------------------|-------------------|---------------------------------------------------------------|----------------------------------------------|
+| **Force and Verve**       | ~45 s channel     | Massive raid-wide Physical damage, but 3 spawn shields protect. | Raid: stack under shields. Healers: pre-heal.|
+| **Attenuation**           | ~45 s             | Disks fire out in pattern, hitting the raid if unprepared.     | Raid: circle around boss, avoid disks.       |
+| **Convert**               | ~60 s             | Mind control on multiple players.                              | Everyone: be ready to break each other out.  |
+
+---
+
+### Phase 2: 40% → 0%
+
+| **Mechanic**      | **Description**                            | **Role Notes**                                    |
+|-------------------|--------------------------------------------|--------------------------------------------------|
+| **Echo of Attenuation** | Creates add that channels Attenuation.       | Raidlead: assign tank/healer; move it corner.   |
+| **Simultaneous Attenuation** | Boss and echo may both cast.               | Raid: anticipate double disk patterns.           |
+
