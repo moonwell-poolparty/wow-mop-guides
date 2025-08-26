@@ -17,7 +17,7 @@ callouts:
     color: red
   ranged:
     title: Ranged DPS
-    color: pink
+    color: red
   raidlead:
     title: Raidlead
     color: red
