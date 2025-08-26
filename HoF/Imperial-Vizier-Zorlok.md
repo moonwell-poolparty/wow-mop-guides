@@ -12,7 +12,7 @@ subtitle: Imperial Vizier Zor'lok
 
 ### ✅ Quick Role Checklist
 
-#### Phase 1 – Platform Abilities
+#### Phase 1 – Platform Abilities (100% -> 80% -> 60%)
 
 {: .raidlead .fs-3}
 > * Assign safe zones for **Force & Verve**.  
@@ -27,7 +27,7 @@ subtitle: Imperial Vizier Zor'lok
 
 {: .ranged .fs-3}
 > * Interrupt allies under **Convert** immediately.  
-> * Spread and dodge **Attenuation** discs.  
+> * Spread and dodge **Attenuation** discs.
 
 {: .melee .fs-3}
 > * Stay mobile, especially during **Attenuation**.  
@@ -63,9 +63,9 @@ subtitle: Imperial Vizier Zor'lok
 
 ---
 
-### Phase 1: Platform Abilities
+### 🧠 Key Mechanics & Responsibilities
 
-#### 🧠 Key Mechanics & Responsibilities
+#### Phase 1: Platform Abilities
 
 | **Ability**           | **Timing** | **Description**                                                      | **Role Notes**                                    |
 |-----------------------|------------|----------------------------------------------------------------------|--------------------------------------------------|
@@ -76,9 +76,7 @@ subtitle: Imperial Vizier Zor'lok
 
 ---
 
-### Phase 2: Final Platform (40%)
-
-#### 🧠 Key Mechanics & Responsibilities
+#### Phase 2: Final Platform (40%)
 
 | **Ability**           | **Timing** | **Description**                                                      | **Role Notes**                                    |
 |-----------------------|------------|----------------------------------------------------------------------|--------------------------------------------------|
