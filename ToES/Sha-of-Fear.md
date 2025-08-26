@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sha of Fear
-parent: Terrace of the Endless Spring
+parent: Terrace of Endless Spring
 nav_order: 4
 subtitle: Sha
 ---

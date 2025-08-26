@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tsulong
-parent: Terrace of the Endless Spring
+parent: Terrace of Endless Spring
 nav_order: 2
 subtitle: Tsulong
 ---

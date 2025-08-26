@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Protectors of the Endless
-parent: Terrace of the Endless Spring
+parent: Terrace of Endless Spring
 nav_order: 1
 subtitle: Protectors
 ---

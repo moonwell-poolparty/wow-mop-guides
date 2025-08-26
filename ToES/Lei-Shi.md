@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lei Shi
-parent: Terrace of the Endless Spring
+parent: Terrace of Endless Spring
 nav_order: 3
 subtitle: Lei-Shi
 ---
