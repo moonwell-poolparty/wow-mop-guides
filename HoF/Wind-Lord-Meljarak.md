@@ -10,7 +10,7 @@ subtitle: Wind Lord Mel'jarak
 
 ---
 
-### ​ Quick Role Checklist
+### ✅ Quick Role Checklist
 
 #### Phase 1 – Add Control & DPS (Single Phase, Normal Mode)
 
@@ -44,9 +44,9 @@ subtitle: Wind Lord Mel'jarak
 
 ---
 
-### Phase 1: Add Management & Burn
+### 🧠 Key Mechanics & Responsibilities
 
-#### ​ Key Mechanics & Responsibilities
+#### Phase 1: Add Management & Burn
 
 | **Ability**             | **Timing**             | **Description**                                                                 | **Role Notes**                                                                 |
 |-------------------------|------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -55,6 +55,6 @@ subtitle: Wind Lord Mel'jarak
 | **Amber-Trapper Shared HP** | Throughout      | All 3 share health — AoE or hitting one hits all.                               | CC one to avoid early Recklessness; DPS all evenly.                          |
 | **Whirling Blade**      | ~10–15s                | Targets ranged, arcs blade — deals damage on outward and return path.           | Ranged must anticipate direction and dodge appropriately.                     |
 | **Rain of Blades**      | ~60s                   | Heavy AoE physical damage over 6 seconds every 0.5s.                             | Healers rotate cooldowns; DPS keep uptime.                                  |
-| **Wind Bomb**           | ~10–15s                | Lands, arms in 3 sec, explodes instantly if touched — permanent until fight end. | Everyone avoid them completely after they land.                                 |
+| **Wind Bomb (75%) **    | ~10–15s           | Lands, arms in 3 sec, explodes instantly if touched — permanent until fight end. | Everyone avoid them completely after they land.                                 |
 | **Recklessness (stacking on add kills)** | Kill Condition | Buff gains on killing add groups — increases boss damage & damage taken.      | DPS should burn adds to trigger; healers prepare for spike.                  |
 | **Enrage Timer (8 min)** | Raid Clock          | Fight wipes if not killed fast enough.                                          | Keep Recklessness cycles smoothly to shorten fight.                         |
