@@ -81,12 +81,12 @@ subtitle: Shek'zeer
 
 ---
 
-### Phase 1: 100% → 70% HP
+### 🧠 Key Mechanics & Responsibilities
 
-### 🔥 Bloodlust / Heroism Timing
+#### 🔥 Bloodlust / Heroism Timing
 * Recommended: Use in **Phase 3 burn** (execute + max healing stress).
 
-#### 🧠 Key Mechanics & Responsibilities
+#### Phase 1: 100% → 70% HP
 
 | **Ability**                | **Timing** | **Description**                                                          | **Role Notes**                                        |
 | --------------------------- | ---------- | ------------------------------------------------------------------------ | ----------------------------------------------------- |
@@ -96,7 +96,7 @@ subtitle: Shek'zeer
 
 ---
 
-### Phase 2: Add Waves (2:30 min)
+#### Phase 2: Add Waves (2:30 min)
 
 | **Ability**          | **Timing** | **Description**                                             | **Role Notes**                          |
 | --------------------- | ---------- | ----------------------------------------------------------- | ---------------------------------------- |
@@ -107,7 +107,7 @@ subtitle: Shek'zeer
 
 ---
 
-### Phase 3: 30% → 0% (Burn)
+#### Phase 3: 30% → 0% (Burn)
 
 | **Ability**           | **Timing** | **Description**                                    | **Role Notes**                                   |
 | ---------------------- | ---------- | -------------------------------------------------- | ------------------------------------------------ |
