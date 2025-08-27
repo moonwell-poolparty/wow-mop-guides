@@ -40,7 +40,7 @@ subtitle: Garalon
 
   </div>
   <div class="side-image">
-    <img src="/HoF/assets/images/Garalon-pull.png" alt="Garalon pull" />
+    <img src="{{site.url}}/HoF/assets/images/Garalon-pull.png" alt="Garalon pull" />
   </div>
 </div>
 
