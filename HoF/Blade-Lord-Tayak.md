@@ -12,6 +12,9 @@ subtitle: Blade Lord
 
 #### Phase 1: 100% → 20% HP
 
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
+
 {: .raidlead .fs-3}
 > * Call stack on Unseen Strike.
 
@@ -33,6 +36,11 @@ subtitle: Blade Lord
 > * Avoid tornado paths and be ready for burst phases.
 > * Stack behind Unseen Strike target to soak.
 
+  </div>
+  <div class="side-image">
+    <img src="/HoF/assets/images/Tayak-pull.png" alt="Blade Lord Ta'yak pull" />
+  </div>
+</div>
 ---
 
 #### Phase 2: 20% → 0% HP
