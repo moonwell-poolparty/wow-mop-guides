@@ -50,3 +50,102 @@
       }
     }
   }
+
+  .content-with-image {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start; // This makes the image stick to the top
+    
+    @media (max-width: 768px) {
+      flex-direction: column;
+      gap: 1rem;
+    }
+    
+    .markdown-content {
+      flex: 1;
+      min-width: 0; // Prevents flex item from overflowing
+      
+      // Target both the class on blockquotes and paragraphs that contain blockquotes
+      .everyone,
+      .everyone > blockquote,
+      blockquote.everyone {
+        border-left: 4px solid #6c757d;
+        background-color: var(--everyone-bg, #f8f9fa);
+      }
+      
+      .raidlead,
+      .raidlead > blockquote,
+      blockquote.raidlead {
+        border-left: 4px solid #ffc107;
+        background-color: var(--raidlead-bg, #fff3cd);
+      }
+      
+      .tank,
+      .tank > blockquote,
+      blockquote.tank {
+        border-left: 4px solid #0d6efd;
+        background-color: var(--tank-bg, #cfe2ff);
+      }
+      
+      .healer,
+      .healer > blockquote,
+      blockquote.healer {
+        border-left: 4px solid #198754;
+        background-color: var(--healer-bg, #d1e7dd);
+      }
+      
+      .ranged,
+      .ranged > blockquote,
+      blockquote.ranged {
+        border-left: 4px solid #dc3545;
+        background-color: var(--ranged-bg, #f8d7da);
+      }
+      
+      .melee,
+      .melee > blockquote,
+      blockquote.melee {
+        border-left: 4px solid #6f42c1;
+        background-color: var(--melee-bg, #e2d9f3);
+      }
+      
+      blockquote {
+        margin: 0.5rem 0;
+        padding: 0.75rem 1rem;
+        border-radius: 4px;
+        
+        ul, ol {
+          margin: 0;
+          padding-left: 1rem;
+        }
+      }
+    }
+    
+    .side-image {
+      flex: 0 0 300px; // Fixed width, doesn't grow or shrink
+      
+      @media (max-width: 1024px) {
+        flex: 0 0 250px; // Smaller on medium screens
+      }
+      
+      @media (max-width: 768px) {
+        flex: none; // Full width on mobile
+        text-align: center;
+      }
+      
+      img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        
+        // Sticky positioning to keep it at the top while scrolling
+        position: sticky;
+        top: 20px;
+        
+        @media (max-width: 768px) {
+          position: static; // Remove sticky on mobile
+          max-width: 400px;
+        }
+      }
+    }
+  }
