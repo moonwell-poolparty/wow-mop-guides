@@ -38,7 +38,7 @@ subtitle: Blade Lord
 
   </div>
   <div class="side-image">
-    <img src="/HoF/assets/images/Tayak-pull.png" alt="Blade Lord Ta'yak pull" />
+    <img src="{{site.url}}/HoF/assets/images/Tayak-pull.png" alt="Blade Lord Ta'yak pull" />
   </div>
 </div>
 ---
