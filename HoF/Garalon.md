@@ -10,8 +10,12 @@ subtitle: Garalon
 
 ### ✅ Quick Role Checklist
 
+
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
+
 {: .everyone .fs-3}
-> * **Never stand underneath Garalon’s body**. 
+> * **Never stand underneath Garalon's body**. 
 
 {: .raidlead .fs-3}
 > * Assign a **pheromone rotation** (swap around 15-18 stacks).   
@@ -33,6 +37,12 @@ subtitle: Garalon
 {: .melee .fs-3}
 > * Stand in glowing leg circles for the DPS buff on that leg.
 > * Stay clear of boss hitbox during **Crush** to avoid lethal damage.  
+
+  </div>
+  <div class="side-image">
+    <img src="/HoF/assets/images/Garalon-pull.png" alt="Garalon pull" />
+  </div>
+</div>
 
 ---
 

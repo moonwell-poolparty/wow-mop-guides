@@ -13,6 +13,9 @@ subtitle: Stone-Guard
 
 #### Phase 1
 
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
+
 {: .raidlead .fs-3}
 > * Something to assign or call.
 
@@ -27,6 +30,12 @@ subtitle: Stone-Guard
 
 {: .melee .fs-3}
 > * Something to dps
+
+  </div>
+  <div class="side-image">
+    <img src="/MSV/assets/images/The-Stone-Guardian-pull.png" alt="The Stone Guardian pull" />
+  </div>
+</div>
 
 ### 🧠 Key Mechanics & Responsibilities
 
