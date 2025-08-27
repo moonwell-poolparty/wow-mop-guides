@@ -1,0 +1,52 @@
+.side-bar {
+    z-index: 0;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: $sidebar-color;
+    
+    @include mq(md) {
+      flex-flow: column nowrap;
+      position: fixed;
+      top: 0;
+      left: 0; // Explicitly position at left edge
+      width: $nav-width-md;
+      height: 100vh; // Use full viewport height
+      border-right: $border $border-color;
+      align-items: flex-start; // Changed from flex-end to align left
+    }
+    
+    @include mq(lg) {
+      width: $nav-width; // Use consistent nav width instead of complex calculation
+      min-width: $nav-width;
+    }
+    
+    & + .main {
+      @include mq(md) {
+        margin-left: $nav-width-md;
+        width: calc(100% - #{$nav-width-md}); // Fill remaining space
+      }
+      
+      @include mq(lg) {
+        margin-left: $nav-width; // Simplified margin
+        width: calc(100% - #{$nav-width}); // Fill remaining space
+      }
+      
+      .main-header {
+        display: none;
+        background-color: $sidebar-color;
+        
+        @include mq(md) {
+          display: flex;
+          background-color: $body-background-color;
+        }
+        
+        &.nav-open {
+          display: block;
+          
+          @include mq(md) {
+            display: flex;
+          }
+        }
+      }
+    }
+  }
