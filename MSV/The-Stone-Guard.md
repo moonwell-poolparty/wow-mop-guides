@@ -33,7 +33,7 @@ subtitle: Stone-Guard
 
   </div>
   <div class="side-image">
-    <img src="/MSV/assets/images/The-Stone-Guardian-pull.png" alt="The Stone Guardian pull" />
+    <img src="{{site.url}}/MSV/assets/images/The-Stone-Guardian-pull.png" alt="The Stone Guardian pull" />
   </div>
 </div>
 
