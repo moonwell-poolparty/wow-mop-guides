@@ -17,30 +17,51 @@ subtitle: Blade Lord
 
 {: .raidlead .fs-3}
 > * Call stack on Unseen Strike.
+> <div markdown="block">
+> {: .heroic }
+> Do something cool
+> </div>
 
 {: .tank .fs-3}
 > * Swap regularly for Overwhelming Assault.
 > * Manage boss positioning to keep raid clear of tornadoes.
+> <div markdown="block">
+> {: .heroic }
+> Do something cool
+> </div>
 
 {: .healer .fs-3}
 > * Prepare for burst damage on Wind Step and Unseen Strike.
 > * Watch raid spacing; movement can cause line-of-sight issues.
 > * Stack behind Unseen Strike target to soak.
+> <div markdown="block">
+> {: .heroic }
+> Do something cool
+> </div>
 
 {: .ranged .fs-3}
 > * Stay **off-center**, near walls to control tornado placement.
 > * Spread out to avoid shared Wind Step.
 > * Stack behind Unseen Strike target to soak.
+> <div markdown="block">
+> {: .heroic }
+> Do something cool
+> </div>
 
 {: .melee .fs-3}
 > * Avoid tornado paths and be ready for burst phases.
 > * Stack behind Unseen Strike target to soak.
+> <div markdown="block">
+> {: .heroic }
+> Do something cool
+> </div>
 
   </div>
   <div class="side-image">
     <img src="{{site.url}}/HoF/assets/images/Tayak-pull.png" alt="Blade Lord Ta'yak pull" />
   </div>
 </div>
+
 ---
 
 #### Phase 2: 20% → 0% HP
