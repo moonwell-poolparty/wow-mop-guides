@@ -149,3 +149,151 @@
       }
     }
   }
+
+.main-content h3, .main-content h4 {
+  margin-top: 2rem;
+  padding-top: 0.3rem;
+}
+
+.main-content ul {
+  line-height: 1.6;
+}
+
+.ability {
+  background: #fbeaea;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  font-weight: 600;
+  color: #b30000;
+  white-space: nowrap;
+}
+
+/* --- Tables --- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+}
+
+table thead {
+  background: #222;
+  color: #fff;
+}
+
+table th, table td {
+  padding: 0.6em 0.8em;
+  vertical-align: top;
+}
+
+table tbody tr:nth-child(odd) {
+  background: #fafafa;
+}
+
+table tbody tr:hover {
+  background: #f0f8ff;
+}
+
+table td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+table td:nth-child(2) {
+  text-align: center;
+  font-weight: 500;
+  color: #333;
+}
+
+/* --- Phase separation bars --- */
+h4[id*="phase-1"] {
+  border-top: 3px solid #ff9900;
+  padding-top: 0.5em;
+}
+
+h4[id*="phase-2"] {
+  border-top: 3px solid #cc0000;
+  padding-top: 0.5em;
+}
+
+/* --- Role blockquotes: add icons --- */
+blockquote.raidlead::before {
+  content: "🧠 Raidlead";
+  font-weight: bold;
+}
+blockquote.tank::before {
+  content: "🛡️ Tank";
+  font-weight: bold;
+}
+blockquote.healer::before {
+  content: "❤️ Healer";
+  font-weight: bold;
+}
+blockquote.ranged::before {
+  content: "🎯 Ranged";
+  font-weight: bold;
+}
+blockquote.melee::before {
+  content: "⚔️ Melee";
+  font-weight: bold;
+}
+blockquote.everyone::before {
+  content: "👥 Everyone";
+  font-weight: bold;
+}
+
+/* --- Content with image --- */
+.content-with-image {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin: 1.5rem 0;
+}
+
+.content-with-image .side-image img {
+  max-width: 300px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.content-with-image .side-image img:hover {
+  transform: scale(1.02);
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 768px) {
+  .content-with-image {
+    flex-direction: column;
+  }
+  .content-with-image .side-image img {
+    max-width: 100%;
+  }
+}
+
+/* --- Fullscreen image overlay --- */
+.image-overlay {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.9);
+  justify-content: center;
+  align-items: center;
+}
+
+.image-overlay img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+}
+
+.image-overlay .close {
+  position: absolute;
+  top: 20px; right: 30px;
+  font-size: 2rem;
+  color: white;
+  cursor: pointer;
+}

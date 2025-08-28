@@ -8,25 +8,27 @@ color_scheme: dark
 callouts:
   tank:
     title: Tank
-    color: blue
+    color: indigo-glow
   healer:
     title: Healer
-    color: green
+    color: teal-glow
   melee:
     title: Melee DPS
-    color: red
+    color: magenta-glow
   ranged:
     title: Ranged DPS
-    color: red
+    color: magenta-glow
   raidlead:
     title: Raidlead
-    color: red
+    color: magenta-glow
   everyone:
     title: Everyone
-    color: yellow
+    color: amber-glow
   normal:
     title: Normal
-    color: blue
+    color: indigo-glow
   heroic:
     title: Heroic
-    color: yellow
+    color: amber-glow
+
+callouts_opacity: 0.75
