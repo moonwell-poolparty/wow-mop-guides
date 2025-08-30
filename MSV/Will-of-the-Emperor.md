@@ -17,6 +17,14 @@ subtitle: Will of the Emperor
 <div class="content-with-image" markdown="1">
   <div class="main-content" markdown="1">
 
+{: .everyone .fs-3}
+> * Practice dodging Devastating Combo perfectly; 5 swings on normal, **10 swings on heroic**.  
+> * If you dodge all hits, gain a free **Opportunistic Strike** ability for big DPS.  
+> <div markdown="block">
+> {: .heroic }
+> Sparks target random players — stay aware and avoid them until the assigned clear call.
+> </div>
+
 {: .raidlead .fs-3}
 > * Call **kill priority**: Emperor's Courage → Emperor's Strength → Emperor's Rage.
 > * Coordinate **interrupts**, **slows**, and **stuns** on adds.  
@@ -60,14 +68,6 @@ subtitle: Will of the Emperor
 > <div markdown="block">
 > {: .heroic }
 > Do **not** clear Sparks unless assigned — instant death risk. Follow safe positioning calls.
-> </div>
-
-{: .everyone .fs-3}
-> * Practice dodging Devastating Combo perfectly; 5 swings on normal, **10 swings on heroic**.  
-> * If you dodge all hits, gain a free **Opportunistic Strike** ability for big DPS.  
-> <div markdown="block">
-> {: .heroic }
-> Sparks target random players — stay aware and avoid them until the assigned clear call.
 > </div>
 
 ---

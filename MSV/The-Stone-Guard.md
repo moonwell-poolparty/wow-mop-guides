@@ -15,6 +15,15 @@ subtitle: Stone Guard
 <div class="content-with-image" markdown="1">
   <div class="main-content" markdown="1">
 
+{: .everyone .fs-3}
+> * **NEVER stand under Guardians** — cleave + stomps are lethal.
+> * Always listen for Overload and Petrification calls.
+> <div markdown="block">
+> {: .heroic }
+> On pull, **10–14 assigned painters** grab gems immediately and activate Energized Tiles fast.  
+> At **75%** and **40% HP**, painter groups are assigned for each **tile reset**.  
+> During **quadruple Overloads**, stack fast, tightly and follow cooldown rotations perfectly.
+
 {: .raidlead .fs-3}
 > * Call **which Guardian should Overload** to clear Petrification, keeping energy synced across Guardians.
 > * Position raid and assign healers for managing Amethyst Pools, Cobalt Mines, and Chains.
@@ -66,14 +75,12 @@ subtitle: Stone Guard
 > If assigned, grab assigned gems and activate Energized Tiles **immediately when raid lead calls it**.
 > </div>
 
-{: .everyone .fs-3}
-> * **NEVER stand under Guardians** — cleave + stomps are lethal.
-> * Always listen for Overload and Petrification calls.
-> <div markdown="block">
-> {: .heroic }
-> On pull, **10–14 assigned painters** grab gems immediately and activate Energized Tiles fast.  
-> At **75%** and **40% HP**, painter groups are assigned for each **tile reset**.  
-> During **quadruple Overloads**, stack fast, tightly and follow cooldown rotations perfectly.
+</div>
+  <div class="side-image">
+    Painting
+    <img src="{{site.url}}/MSV/assets/images/The-Stone-Guard_painting.png" alt="Painting" />
+  </div>
+</div>
 
 ---
 

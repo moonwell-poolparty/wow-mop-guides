@@ -16,6 +16,17 @@ subtitle: Spirit Kings
 
 #### **Phase 1: First Active King**
 
+{: .everyone .fs-3}
+> * Stack when called, spread when Volley hits, and dodge all cone cleaves.  
+> * Immediately switch to illusions when RL calls for them.
+> <div markdown="block">
+> {: .heroic }
+>  
+> • **Shield Mechanics** → Full stop on DPS until RL calls safe.  
+> • Anyone breaking Zian’s shield early = **raid wipe**.  
+> • Watch boss frames for active shields if RL hasn’t called yet.
+> </div>
+
 {: .raidlead .fs-3}
 > * Call which king is active — mechanics change per king.  
 > * Track shield/buff timers carefully in heroic — **call for full DPS stop** when required.
@@ -63,17 +74,6 @@ subtitle: Spirit Kings
 > {: .heroic }
 > STOP DPS instantly on bosses with shields active.  
 > Stunning Subetai during **Sleight of Hand** is allowed — coordinate with RL.
-> </div>
-
-{: .everyone .fs-3}
-> * Stack when called, spread when Volley hits, and dodge all cone cleaves.  
-> * Immediately switch to illusions when RL calls for them.
-> <div markdown="block">
-> {: .heroic }
->  
-> • **Shield Mechanics** → Full stop on DPS until RL calls safe.  
-> • Anyone breaking Zian’s shield early = **raid wipe**.  
-> • Watch boss frames for active shields if RL hasn’t called yet.
 > </div>
 
 ---
