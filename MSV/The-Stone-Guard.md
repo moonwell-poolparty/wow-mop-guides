@@ -17,56 +17,64 @@ subtitle: Stone Guard
 
 {: .raidlead .fs-3}
 > * Call **which Guardian should Overload** to clear Petrification, keeping energy synced across Guardians.
-> * Assign **raid-wide mitigation cooldowns** (e.g., Barrier, Aura Mastery, Spirit Link, Rallying Cry, etc.).  
-> * Call stack timings for **simultaneous 4-Guardian Overloads**.
-> * Assign **painters** for pull and each tile reset, ensuring the correct people activate Energized Tiles.
+> * Position raid and assign healers for managing Amethyst Pools, Cobalt Mines, and Chains.
+> * Watch tile painting progress and coordinate swap timings.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Coordinate **ALL 4 Guardian Overloads** to trigger **at the same time** for efficiency and DPS windows.  
-> Pre-plan mitigation cooldowns and ensure assignments are communicated clearly. Any missed cooldowns here are likely a wipe.
+> **Heroic:** Raid leader **assigns all raid-wide mitigation cooldowns** and calls when to stack.  
+> Coordinate **quadruple Guardian Overloads** to trigger **at the same time** for controlled healing windows.  
+> Assign **painters** on pull and for each tile reset — ensure everyone knows their group.
 > </div>
 
 {: .tank .fs-3}
-> * Always tank **two Guardians together** to balance energy generation.
-> * Swap Guardians strategically based on assigned Petrification stacks.
+> * Always tank **two Guardians together** to manage energy evenly.
+> * Swap Guardians strategically to manage Petrification stacks.
+> * Move bosses carefully to avoid Cobalt Mines and Amethyst Pools.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Prepare for the **quadruple Overload** damage spike — pre-use personals before the raid-wide mitigation rotations start.
+> **Heroic:** Pre-use personals when the raid stacks for **quadruple Overloads**.  
+> Be ready to reposition quickly after Overloads if mines spawn nearby.
 > </div>
 
 {: .healer .fs-3}
-> * Focus on **burst healing** during Overloads.
-> * Rotate raid healing cooldowns **exactly as assigned** by the raid leader.
+> * Prepare for **spikes of raid-wide damage** from Overloads.
+> * Focus AoE throughput during active Petrification.
+> * Manage movement carefully to avoid mines and pools.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Expect **massive raid-wide damage** during simultaneous Overloads — Chain raid CDs perfectly.  
-> Coordinate with other healers and keep an eye on assigned timing.
+> **Heroic:** **Massive damage** hits during quadruple Overloads.  
+> Use assigned cooldowns **exactly when called** — missing timing likely causes a wipe.
 > </div>
 
 {: .ranged .fs-3}
-> * Position away from **Cobalt Mines** and **Amethyst Pools**.  
-> * Stay close to **Jasper Chain partners** to prevent excess damage.
+> * Spread where possible to reduce splash damage from Cobalt Mines.
+> * Stay close to Jasper Chain partners but avoid crossing other chains.
+> * Watch positioning relative to Amethyst Pools and Mines.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Some ranged DPS may be assigned as **painters** — watch your assignments and be ready to activate Energized Tiles quickly when called.
+> **Heroic:** Some ranged DPS may be **assigned as painters**.  
+> If assigned, grab gems and activate Energized Tiles **immediately when raid lead calls it**.
 > </div>
 
 {: .melee .fs-3}
-> * Stay stacked near tanks for consistent cleave uptime.
-> * Move carefully to avoid accidental mine triggers during swaps.
+> * Stack with tanks when possible for cleave efficiency.
+> * Avoid stepping on mines during swaps.
+> * Stay alert for Jasper Chains — avoid snapping lines.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** If assigned as a **painter**, grab gems and activate Energized Tiles quickly **only when raid lead calls for it**.
+> **Heroic:** If assigned as a painter, grab gems and activate Energized Tiles quickly.  
+> Always confirm your painter group before each reset.
 > </div>
 
 {: .everyone .fs-3}
-> * **NEVER stand under Guardians** — cleave and stomps will one-shot you.
-> * Know your **assigned painter group** and execute it perfectly.
-> * During simultaneous Overloads, **stack tightly** and follow cooldown rotation calls.
+> * **NEVER stand under Guardians** — cleave + stomps are lethal.
+> * Follow assigned **painter groups** on pull and after resets.
+> * Always listen for Overload and Petrification calls.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Painters on pull should grab gems **immediately** and activate Energized Tiles ASAP.  
-> Separate groups are assigned for each **tile reset** at **75%** and **40% HP** — **know your group**.
+> **Heroic:** On pull, **10–14 painters** grab gems immediately and activate Energized Tiles fast.  
+> At **75%** and **40% HP**, new painter groups are assigned for each **tile reset**.  
+> During **quadruple Overloads**, stack tightly and follow cooldown rotations perfectly.
 > </div>
 
   </div>
@@ -97,8 +105,8 @@ subtitle: Stone Guard
 | **Ability**            | **Timing**     | **Description**                                                           | **Role Notes**                                              |
 |----------------------|---------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
 | **Energized Tiles**  | On crystal use | Painters grab gems and **activate Energized Tiles** to control arena buffs. | Painters must **follow assigned calls only**.              |
-| **Tile Reset**       | 75% & 40% HP  | Energized Tiles **reset**; painters rotate per assignment.                | Painters prepare for swaps; raidlead calls group changes. |
-| **Quadruple Overload** | Pre-planned  | All 4 Guardians Overload **simultaneously** to sync raid damage windows.   | Everyone stacks tightly; follow assigned mitigation CDs.   |
+| **Tile Reset**       | 75% & 40% HP  | Energized Tiles **reset**; painters rotate per assignment.                | Painters prepare for swaps
+
 
 ---
 
