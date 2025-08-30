@@ -41,9 +41,9 @@ subtitle: Feng
 </div>
   <div class="side-image">
     Spread
-    <img src="{{site.url}}/MSV/assets/images/Feng_Staff_1.png" alt="Feng pull" />
+    <img src="{{site.url}}/MSV/assets/images/Feng_Staff_1.png" alt="Staff Spread" />
     Stack
-    <img src="{{site.url}}/MSV/assets/images/Feng_Staff_2.png" alt="Feng stack" />
+    <img src="{{site.url}}/MSV/assets/images/Feng_Staff_2.png" alt="Staff Stack" />
   </div>
 </div>
 
@@ -82,9 +82,9 @@ subtitle: Feng
 </div>
   <div class="side-image">
     Pull
-    <img src="{{site.url}}/MSV/assets/images/Feng_Shield_1.png" alt="Feng pull" />
+    <img src="{{site.url}}/MSV/assets/images/Feng_Shield_1.png" alt="Shield pull" />
     Soul Fragments
-    <img src="{{site.url}}/MSV/assets/images/Feng_Shield_2.png" alt="Feng Soul Fragments" />
+    <img src="{{site.url}}/MSV/assets/images/Feng_Shield_2.png" alt="Shield Soul Fragments" />
   </div>
 </div>
 
@@ -120,7 +120,7 @@ subtitle: Feng
 </div>
   <div class="side-image">
     Pull
-    <img src="{{site.url}}/MSV/assets/images/Feng_Fists_1.png" alt="Feng pull" />
+    <img src="{{site.url}}/MSV/assets/images/Feng_Fists_1.png" alt="Fists pull" />
   </div>
 </div>
 
@@ -152,7 +152,7 @@ subtitle: Feng
 </div>
   <div class="side-image">
     Pull
-    <img src="{{site.url}}/MSV/assets/images/Feng_Spear_1.png" alt="Feng pull" />
+    <img src="{{site.url}}/MSV/assets/images/Feng_Spear_1.png" alt="Spear pull" />
   </div>
 </div>
 
