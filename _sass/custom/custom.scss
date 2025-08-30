@@ -335,6 +335,7 @@ blockquote.everyone::before {
 blockquote.tank::before {
   color: #0f172a !important;
   font-weight: 800;
+  font-size: 10pt;
 }
 blockquote.tank {
   color: #0f172a !important;
@@ -348,6 +349,7 @@ blockquote.melee::before,
 blockquote.ranged::before {
   color: #1e293b !important; /* or use your $variable */
   font-weight: 800;          /* make it stand out */
+  font-size: 10pt;
 }
 
 blockquote.healer,
@@ -362,6 +364,7 @@ blockquote.ranged {
 p.heroic::before {
   color: #1e293b; // or your chosen text color
   font-weight: 800;
+  font-size: 10pt;
 }
 p.heroic {
   color: #1e293b; // or your chosen text color
