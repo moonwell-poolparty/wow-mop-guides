@@ -1,113 +1,109 @@
 ---
 layout: post
-title: The Spirit Kings
+title: Spirit Kings
 parent: Mogu'shan Vaults
 nav_order: 4
 subtitle: Spirit Kings
 ---
 
-# 👑 [The Spirit Kings](https://www.wowhead.com/mop-classic/npc=60701/qiang-the-merciless)
+# 👑 [Spirit Kings](https://www.wowhead.com/mop-classic/npc=60701/spirit-kings)
+
+---
 
 ### ✅ Quick Role Checklist
 
-#### Multi-Phase – Rotating Bosses
+---
 
-<div class="content-with-image" markdown="1">
-  <div class="main-content" markdown="1">
+#### **Phase 1: First Active King**
 
 {: .raidlead .fs-3}
-> * Call boss order each week and coordinate transitions between active Spirits.  
-> * Assign soakers for Qiang’s **Massive Attacks**, and interrupt team for Subetai’s **Volley**.  
-> * Manage movement for Meng’s **Maddening Shout** and Zian’s **Shadows of the Past**.
+> * Call which king is active — mechanics change per king.  
+> * Track shield/buff timers carefully in heroic — **call for full DPS stop** when required.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Assign **two teams of interrupters** for Subetai’s Volley (rotation).  
-> Plan raid-wide cooldowns for Meng’s Maddening Shout overlaps with Qiang’s damage.  
-> Raid leader calls when to **switch DPS to illusions** immediately on Zian.
+> **Heroic:** Assign specific dispellers for Impervious Shield, Shield of Darkness, and Delirious.  
+> Call **hard DPS stop** for Zian's **Shield of Darkness** — **hitting through this wipes the raid**.
 > </div>
 
 {: .tank .fs-3}
-> * Swap aggro carefully during Qiang’s **Massive Attack** to avoid cleaving the raid.  
-> * Position bosses facing away from raid when possible.  
-> * Pick up Subetai’s spawns quickly.
+> * Pick up active king immediately — tank each one near center unless mechanics require movement.  
+> * Watch for Qiang's cleaves and Subetai’s Flanking Orders.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Be ready to reposition quickly for **Volley soak groups**.  
-> Extra awareness during Maddening Shout overlaps — use personals to survive heavy burst.
+> **Heroic:** If Qiang uses **Impervious Shield**, stop DPS and call for **Mass Dispel** or **Shattering Throw**.  
+> Tanks help call swaps to handle incoming damage if needed.
 > </div>
 
 {: .healer .fs-3}
-> * Prepare spot healing for chain damage from Subetai’s **Volley**.  
-> * AoE throughput for Maddening Shout, especially during overlaps.  
-> * Watch movement during Zian’s abilities to stay in range of the raid.
+> * Watch for massive tank spikes from Qiang's cleaves and Subetai’s Volley.  
+> * Be ready to dispel Zian’s shield if assigned.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Time major healing cooldowns during **Maddening Shout + Qiang overlap**.  
-> Prepare for **sustained AoE** when illusions are active.  
-> Keep topped raid HP before each transition.
+> **Heroic:**  
+> • **Zian’s Shield of Darkness** → spam heal pre-emptively, call DPS stop instantly.  
+> • Be ready to pump raid healing **after** accidental shield breaks.  
+> • Purge / Mass Dispel assigned shields ASAP.
 > </div>
 
 {: .ranged .fs-3}
-> * Spread to minimize Volley damage.  
-> * Prioritize illusions during Zian’s phase.  
-> * Focus down Maddening Shout MCs quickly (single-target).
+> * Switch targets to illusions immediately when they spawn.  
+> * Spread when Subetai’s Volley goes out.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Some ranged assigned as **Volley soakers** — rotate with healers/CDs.  
-> Always switch to illusions instantly when they spawn, ignoring boss damage until clear.
+> **Heroic:** STOP DPS on boss when:  
+> • **Qiang’s Impervious Shield**  
+> • **Zian’s Shield of Darkness** (**instant wipe if hit**)  
+> Resume DPS only after RL calls “safe”.
 > </div>
 
 {: .melee .fs-3}
-> * Stack tightly for cleave when safe.  
-> * Assist on Maddening Shout MCs with interrupts/stuns.  
-> * Stay flexible for quick swaps when illusions spawn.
+> * Avoid cleaves and flanking mechanics — stay behind Qiang/Subetai.  
+> * Move quickly to illusions when assigned.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Support ranged during **Volley soak** by staying within healing range.  
-> Hard swap to illusions instantly; survival takes priority over uptime.
+> **Heroic:** STOP DPS instantly on bosses with shields active.  
+> Stunning Subetai during **Sleight of Hand** is allowed — coordinate with RL.
 > </div>
 
 {: .everyone .fs-3}
-> * Always follow boss order calls.  
-> * Avoid stacking during Subetai unless assigned.  
-> * Swap fast to MCs and illusions.  
+> * Stack when called, spread when Volley hits, and dodge all cone cleaves.  
+> * Immediately switch to illusions when RL calls for them.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Everyone must know **Volley soak assignments**.  
-> Always switch to **illusions immediately** during Zian — ignoring them wipes raids.  
-> Save personals for **Maddening Shout overlaps**.
+> **Heroic:**  
+> • **Shield Mechanics** → Full stop on DPS until RL calls safe.  
+> • Anyone breaking Zian’s shield early = **raid wipe**.  
+> • Watch boss frames for active shields if RL hasn’t called yet.
 > </div>
 
 ---
 
 ### 🧠 Key Mechanics & Responsibilities
 
-#### Normal Mode
+#### 🔹 Normal Mode
 
-| **Ability**               | **Spirit** | **Description**                                                                 | **Role Notes**                                                                 |
-|----------------------------|-----------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| **Massive Attack**         | Qiang     | Heavy frontal cleave, split between targets in front.                           | **Raidlead**: Assign soakers. **Tanks**: Position away from raid.             |
-| **Annihilate**             | Qiang     | Random raid-wide AoE if no one in front of Qiang during Massive Attack.         | Always soak.                                                                  |
-| **Volley**                 | Subetai   | Heavy cone AoE; must be soaked by raid members.                                | Spread out to reduce stacks. Interrupt if possible.                           |
-| **Pillage**                | Subetai   | Targets random players, steals weapons (damage reduced until retrieved).        | Retrieve weapons quickly.                                                     |
-| **Maddening Shout**        | Meng      | Raid-wide MC until players reach 50% HP.                                        | **DPS**: Single-target MC’d players quickly without killing them.             |
-| **Crazy Thought / Crazed** | Meng      | Boss alternates between increased damage dealt and damage taken.                 | DPS harder during **Crazed**. Watch tank damage during **Crazy Thought**.     |
-| **Shadows of the Past**    | Zian      | Summons shadow orbs (illusions) that chase players and explode on contact.      | Kite safely, focus DPS.                                                       |
-| **Charged Shadows**        | Zian      | Shadow bolts that splash to nearby players.                                    | Stay spread when targeted.                                                    |
+| **Ability**          | **Boss**        | **Timing**     | **Description**                                           | **Role Notes**                                  |
+|----------------------|------------------|---------------|-----------------------------------------------------------|-------------------------------------------------|
+| Massive Attack      | Qiang           | ~Every 20s    | Heavy frontal cleave; splits damage between all hit players. | Tanks soak with mitigation; melee stack if called. |
+| Flanking Orders    | Subetai         | ~Every 30s    | Adds spawn in a line; charge across arena.                | Dodge or immunity soak if assigned.             |
+| Volley             | Subetai         | ~Every 40s    | Ranged AoE arrows at random players.                      | Spread loosely.                                |
+| Shadows            | Zian            | ~Every 35s    | Summons shadow illusions; DPS them down immediately.      | All DPS switch until dead.                     |
+| Maddening Shout    | Meng            | ~Every 45s    | Causes raid to attack each other briefly.                 | Stop DPS or AoE stun if safe.                  |
 
 ---
 
-### 🟡 Heroic-Only Mechanics
+#### 🟡 Heroic-Only Mechanics
 
-| **Ability**           | **Timing**         | **Description**                                                          | **Role Notes**                                                        |
-|------------------------|------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| **Volley Rotation**    | Every Subetai     | Volley must be soaked by **assigned teams** rotating CDs each volley.    | Raidlead assigns soak groups; healers/DPS coordinate cooldown usage.  |
-| **Maddening + Overlap**| Random overlaps   | Maddening Shout can overlap with Qiang or Subetai abilities.              | Use raid-wide CDs + personals; healers prep for huge burst AoE.       |
-| **Empowered Illusions**| During Zian       | Illusions persist longer, deal more damage, and spawn in higher numbers. | DPS must swap instantly. Ranged priority; failure = raid wipe.        |
+| **Ability**          | **Boss**      | **Impact** | **Description**                                                                 | **Response**                                |
+|----------------------|---------------|-----------|---------------------------------------------------------------------------------|--------------------------------------------|
+| **Impervious Shield** | Qiang        | HIGH      | Boss immune to damage; attacks retaliate on attackers.                          | **Mass Dispel** / **Shattering Throw** or **DPS stop**. |
+| **Shield of Darkness** | Zian        | CRITICAL  | Absorbs damage and explodes for **300k raid-wide damage per hit**.              | **Full DPS stop** until shield is dispelled. |
+| **Delirious**         | Meng        | MEDIUM    | Enrage buff; doubles Insanity generation.                                      | **Tranquilizing Shot** or purge immediately. |
+| **Sleight of Hand**   | Subetai     | MEDIUM    | Reduces attacker damage by 50% if you hit him; he is stun-able during buff.     | **Stop DPS** or stun-lock if possible.     |
 
 ---
 
 ### 🥁 Bloodlust / Heroism Timing
-* Recommended to use on **Zian** for illusion burn phase, or during **Qiang + Maddening overlap** if healing is strained.
+* Recommended: Use **on pull** for first king burn **or** during most dangerous shield overlaps.
 
 ---
