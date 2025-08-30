@@ -70,12 +70,6 @@ subtitle: Will of the Emperor
 > **Heroic:** Sparks target random players — stay aware and avoid them until the assigned clear call.
 > </div>
 
-  </div>
-  <div class="side-image">
-    <img src="{{site.url}}/MSV/assets/images/WillOfTheEmperor_Arena.png" alt="Will of the Emperor arena layout" />
-  </div>
-</div>
-
 ---
 
 #### **Phase 2: Boss Pair (Jan-xi & Qin-xi Active)**
