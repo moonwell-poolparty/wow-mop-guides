@@ -331,17 +331,30 @@ blockquote.everyone::before {
 .image-overlay .next { right: 10px; }
 .image-overlay .close { top: 10px; right: 20px; transform: none; }
 
-/* Example: text color for "everyone" callout title (generated via ::before) */
-blockquote::before {
-  color: #1e1e2f !important; /* or use your $variable */
-  font-weight: 600;          /* make it stand out */
+/* Keeping tanks seperate as we need a touch darker color for readability */
+blockquote.tank::before {
+  color: #0f172a !important;
+  font-weight: 800;
+}
+blockquote.tank {
+  color: #0f172a !important;
+  font-weight: 600;
 }
 
-blockquote.tank,
+blockquote.healer::before,
+blockquote.raidlead::before,
+blockquote.everyone::before,
+blockquote.melee::before,
+blockquote.ranged::before {
+  color: #1e293b !important; /* or use your $variable */
+  font-weight: 800;          /* make it stand out */
+}
+
 blockquote.healer,
 blockquote.raidlead,
 blockquote.everyone,
 blockquote.melee,
 blockquote.ranged {
-  color: #0b2239; /* or your preferred color per callout */
+  color: #1e293b; /* or your preferred color per callout */
+  font-weight: 600;          /* make it stand out */
 }
