@@ -21,7 +21,7 @@ subtitle: Stone Guard
 > * Watch tile painting progress and coordinate swap timings.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Raid leader **assigns all raid-wide mitigation cooldowns** and calls when to stack.  
+> Raid leader **assigns all raid-wide mitigation cooldowns** and calls when to stack.  
 > Coordinate **quadruple Guardian Overloads** to trigger **at the same time** for controlled healing windows.  
 > Assign **painters** on pull and for each tile reset — ensure everyone knows their group.
 > </div>
@@ -32,7 +32,7 @@ subtitle: Stone Guard
 > * Move bosses carefully to avoid Cobalt Mines and Amethyst Pools.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Pre-use personals when the raid stacks for **quadruple Overloads**.  
+> Pre-use personals when the raid stacks for **quadruple Overloads**.  
 > Be ready to reposition quickly after Overloads if mines spawn nearby.
 > </div>
 
@@ -42,7 +42,7 @@ subtitle: Stone Guard
 > * Manage movement carefully to avoid mines and pools.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** **Massive damage** hits during quadruple Overloads.  
+> **Massive damage** hits during quadruple Overloads.  
 > Use assigned cooldowns **exactly when called** — missing timing likely causes a wipe.
 > </div>
 
@@ -52,7 +52,7 @@ subtitle: Stone Guard
 > * Watch positioning relative to Amethyst Pools and Mines.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Some ranged DPS may be **assigned as painters**.  
+> Some ranged DPS may be **assigned as painters**.  
 > If assigned, grab assigned gems and activate Energized Tiles **immediately when raid lead calls it**.
 > </div>
 
@@ -62,7 +62,7 @@ subtitle: Stone Guard
 > * Stay alert for Jasper Chains — avoid snapping lines.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Some melee DPS may be **assigned as painters**.  
+> Some melee DPS may be **assigned as painters**.  
 > If assigned, grab assigned gems and activate Energized Tiles **immediately when raid lead calls it**.
 > </div>
 
@@ -71,7 +71,7 @@ subtitle: Stone Guard
 > * Always listen for Overload and Petrification calls.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** On pull, **10–14 assigned painters** grab gems immediately and activate Energized Tiles fast.  
+> On pull, **10–14 assigned painters** grab gems immediately and activate Energized Tiles fast.  
 > At **75%** and **40% HP**, painter groups are assigned for each **tile reset**.  
 > During **quadruple Overloads**, stack fast, tightly and follow cooldown rotations perfectly.
 
