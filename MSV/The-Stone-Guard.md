@@ -10,65 +10,80 @@ subtitle: Stone Guard
 
 ### ✅ Quick Role Checklist
 
-#### Phase 1 – Guardian Overload (Single Phase)
+#### Phase 1 – Guardians & Overload (Single Phase)
 
 <div class="content-with-image" markdown="1">
   <div class="main-content" markdown="1">
 
 {: .raidlead .fs-3}
-> * Call which Guardian to intentionally Overload to remove raid petrification.
-> * Ensure remaining Guardians stay close enough for energy sharing.
+> * Call which Guardian should be allowed to Overload to remove raid Petrification debuff.  
+> * Ensure other Guardians stay within 12 yards to control energy gain.
+
+<div markdown="block">
+{: .heroic }
+**Heroic:** Coordinate Guardians to overload **just before tiles reset** (75% & 40%) to allow Energized Tile refresh. Improper timing can lead to wipe.
+</div>
 
 {: .tank .fs-3}
-> * Tank two Guardians together to manage Overload and positioning.
-> * Swap guardians based on incoming Petrification debuffs.
-> * Face bosses away from raid to avoid unnecessary damage.
+> * Tank two Guardians together (one petrifier + one non-petrifier).  
+> * Swap Guardians to manage Petrification stacks efficiently.  
 
-<div style="background-color:#fff7cc; padding:6px; border-radius:6px; margin-top:6px;">
-<strong>Heroic:</strong> Tanks must position Guardians carefully to ensure <em>proper Overload cycling</em>. Managing energy evenly between Guardians becomes critical — a mistimed Overload during a high-damage Petrification will wipe the raid.
+<div markdown="block">
+{: .heroic }
+**Heroic:** Use defensive cooldowns aggressively—energy gain is faster, and overload damage is lethal.
 </div>
 
 {: .healer .fs-3}
-> * Be ready for major raid-wide damage from Overloads.
-> * Use healing cooldowns before each planned Overload.
-> * Top tanks aggressively during high-energy phases.
+> * Be ready for heavy raid-wide damage from Overloads.  
+> * Prep major cooldowns before each planned Overload.
 
-<div style="background-color:#fff7cc; padding:6px; border-radius:6px; margin-top:6px;">
-<strong>Heroic:</strong> Expect overlapping abilities — coordinate raid cooldowns. Assign external tank CDs for double-Guardian damage spikes.
+<div markdown="block">
+{: .heroic }
+**Heroic:** Coordinate healing cooldowns with Energized Tile power bursts to survive overlapping AoE.
 </div>
 
 {: .dps .fs-3}
-> * Kill adds quickly to control energy flow.
-> * Watch out for Amethyst Pools and Cobalt Mines — avoid triggering extra explosions.
+> * Clear Amethyst Pools and Cobalt Mines promptly—avoid stacking mechanics.  
+> * Manage Jasper Chains—stay close when linked.
 
-<div style="background-color:#fff7cc; padding:6px; border-radius:6px; margin-top:6px;">
-<strong>Heroic:</strong> Prioritize breaking <em>Jasper Chains</em> before detonations and interrupt Cobalt Mines proactively.
+<div markdown="block">
+{: .heroic }
+**Heroic:** Assign mobile DPS to energize tiles (via crystal activations) when safe; maximize damage window.
 </div>
 
-</div>
+  </div>
   <div class="side-image">
-    Overload Stacking
-    <img src="{{site.url}}/MSV/assets/images/StoneGuard_Stack.png" alt="Stack Position" />
+    Guardians Stacked
+    <img src="{{site.url}}/MSV/assets/images/StoneGuard_Stack.png" alt="Guardians Stacking" />
     Mines & Pools
-    <img src="{{site.url}}/MSV/assets/images/StoneGuard_Pools.png" alt="Mines & Pools" />
+    <img src="{{site.url}}/MSV/assets/images/StoneGuard_Pools.png" alt="Pools and Mines" />
   </div>
 </div>
 
 ---
 
-### 🧠 Key Mechanics & Responsibilities
+###  Key Mechanics & Responsibilities
 
-| **Mechanic**                | **Description**                                                            | **Role Notes**                                  |
-|----------------------------|----------------------------------------------------------------------------|-------------------------------------------------|
-| Guardian Energy & Overload | Guardians gain energy when near each other; Overload releases raid AoE dmg. | RL calls which Guardian to overload.            |
-| Petrification Debuff       | Raid takes reduced dmg from one school; removed via Overload.              | Tanks swap Guardians based on debuffs.          |
-| Amethyst Pools & Mines     | Pools cause AoE dmg; Mines explode on trigger.                             | DPS avoid them; tanks reposition if needed.     |
-| Jasper Chains             | Two players linked; dmg increases the farther they move apart.             | Linked players stay close until debuff fades.   |
+| **Mechanic**                | **Description**                                                                 | **Role Notes**                                         |
+|-----------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------|
+| Guardians Energy/Overload   | Guardians gain energy when close; overload clears raid Petrification.           | Raidlead triggers correct overload per debuff.         |
+| Petrification Debuff        | Stacking protection, must be cleared via overload.                             | Tanks manage Petrification by switching Guardians.     |
+| Amethyst Pools & Cobalt Mines | Environmental damage zones—must be avoided or cleared.                        | Raid avoids stacking; DPS clear when safe.             |
+| Jasper Chains               | Links two players; damage increases if far apart.                              | Linked players remain within 10 yards.                  |
+| Jade Shards                 | Unavoidable raid-wide damage must be healed.                                   | Healers stay prepared.                                 |
 
-| <span style="background-color:#fff7cc;"><strong>Heroic: Overload Energy Timing</strong></span> | <span style="background-color:#fff7cc;">Energy must be perfectly balanced between Guardians; accidental double Overloads will wipe the raid.</span> | <span style="background-color:#fff7cc;">Raidlead tracks energy bars constantly.</span> |
-| <span style="background-color:#fff7cc;"><strong>Heroic: Cobalt Mines</strong></span> | <span style="background-color:#fff7cc;">Extra mines spawn — accidental triggers cause lethal raid-wide explosions.</span> | <span style="background-color:#fff7cc;">Assign ranged DPS to safely clear mines when called.</span> |
+---
 
-> ** Heroic Note**  
-> In Heroic, tiles and crystal mechanics appear—ramp up DPS at those points and prioritize Energized Floor Tile generation for damage buffs.
+###  Heroic-Only Mechanics
+
+| **Mechanic**                | **Description**                                                                | **Role Notes**                                         |
+|-----------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------|
+| Energized Tiles             | Click crystals to empower floor tiles for raid-wide damage & Spirit buff.       | Mobile DPS activates tiles safely; reset at 75/40%.    |
+| Tile Buff Reset             | Energized Tile stacks reset at 75% and 40% boss HP.                            | Raidlead calls the reset timing precisely.             |
+
+---
+
+###  Bloodlust / Heroism Timing
+* Use **at the start of the fight** — this maximizes Energized Tile gains and cleave damage before Overload cycles.
 
 ---
