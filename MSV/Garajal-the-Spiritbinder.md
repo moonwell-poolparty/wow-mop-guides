@@ -16,6 +16,12 @@ subtitle: Garajal
 {: .everyone .fs-3}
 > * Use personal defensive when Voodoo Dolled.
 > * On your toes for spirit totem calls.
+> <div markdown="block">
+> {: .heroic }
+> Everyone DPS as much as possible to beat the enrage timer.
+> Going down to the Spirit World with Frail Soul will kill you.
+> Kill the two Severer of Souls adds that are visible in the Spirit World.
+> </div>
 
 {: .raidlead .fs-3}
 > * Assign 4 dps and 1 healer to go down with spirit totem.
@@ -26,6 +32,7 @@ subtitle: Garajal
 
 {: .tank .fs-3}
 > * Use defensives when having the Voodoo Doll debuff to prevent deaths.
+> * Call for Hand of Sacrifice, if paladins available, as often as possible when voodoo doll is up.
 > * Make sure that MT and OT are top 2 in threat.
 
 {: .healer .fs-3}
