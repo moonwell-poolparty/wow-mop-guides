@@ -21,7 +21,7 @@ subtitle: Spirit Kings
 > * Track shield/buff timers carefully in heroic — **call for full DPS stop** when required.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Assign specific dispellers for Impervious Shield, Shield of Darkness, and Delirious.  
+> Assign specific dispellers for Impervious Shield, Shield of Darkness, and Delirious.  
 > Call **hard DPS stop** for Zian's **Shield of Darkness** — **hitting through this wipes the raid**.
 > </div>
 
@@ -30,7 +30,7 @@ subtitle: Spirit Kings
 > * Watch for Qiang's cleaves and Subetai’s Flanking Orders.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** If Qiang uses **Impervious Shield**, stop DPS and call for **Mass Dispel** or **Shattering Throw**.  
+> If Qiang uses **Impervious Shield**, stop DPS and call for **Mass Dispel** or **Shattering Throw**.  
 > Tanks help call swaps to handle incoming damage if needed.
 > </div>
 
@@ -39,7 +39,7 @@ subtitle: Spirit Kings
 > * Be ready to dispel Zian’s shield if assigned.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:**  
+>  
 > • **Zian’s Shield of Darkness** → spam heal pre-emptively, call DPS stop instantly.  
 > • Be ready to pump raid healing **after** accidental shield breaks.  
 > • Purge / Mass Dispel assigned shields ASAP.
@@ -50,7 +50,7 @@ subtitle: Spirit Kings
 > * Spread when Subetai’s Volley goes out.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** STOP DPS on boss when:  
+> STOP DPS on boss when:  
 > • **Qiang’s Impervious Shield**  
 > • **Zian’s Shield of Darkness** (**instant wipe if hit**)  
 > Resume DPS only after RL calls “safe”.
@@ -61,7 +61,7 @@ subtitle: Spirit Kings
 > * Move quickly to illusions when assigned.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** STOP DPS instantly on bosses with shields active.  
+> STOP DPS instantly on bosses with shields active.  
 > Stunning Subetai during **Sleight of Hand** is allowed — coordinate with RL.
 > </div>
 
@@ -70,11 +70,16 @@ subtitle: Spirit Kings
 > * Immediately switch to illusions when RL calls for them.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:**  
+>  
 > • **Shield Mechanics** → Full stop on DPS until RL calls safe.  
 > • Anyone breaking Zian’s shield early = **raid wipe**.  
 > • Watch boss frames for active shields if RL hasn’t called yet.
 > </div>
+
+---
+
+### 🥁 Bloodlust / Heroism Timing
+* Recommended: Use **on pull** for first king burn **or** during most dangerous shield overlaps.
 
 ---
 
@@ -100,10 +105,5 @@ subtitle: Spirit Kings
 | **Shield of Darkness** | Zian        | CRITICAL  | Absorbs damage and explodes for **300k raid-wide damage per hit**.              | **Full DPS stop** until shield is dispelled. |
 | **Delirious**         | Meng        | MEDIUM    | Enrage buff; doubles Insanity generation.                                      | **Tranquilizing Shot** or purge immediately. |
 | **Sleight of Hand**   | Subetai     | MEDIUM    | Reduces attacker damage by 50% if you hit him; he is stun-able during buff.     | **Stop DPS** or stun-lock if possible.     |
-
----
-
-### 🥁 Bloodlust / Heroism Timing
-* Recommended: Use **on pull** for first king burn **or** during most dangerous shield overlaps.
 
 ---

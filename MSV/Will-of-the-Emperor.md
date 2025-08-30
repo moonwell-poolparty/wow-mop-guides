@@ -23,7 +23,7 @@ subtitle: Will of the Emperor
 > * Announce when Devastating Combo begins and ensure everyone is ready to dodge.  
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Assign clearing rotations for **Titan Sparks** when adds die.  
+> Assign clearing rotations for **Titan Sparks** when adds die.  
 > Call for defensives and immunities at the right time — no mistakes here.
 > </div>
 
@@ -33,7 +33,7 @@ subtitle: Will of the Emperor
 > * Be ready to intercept Sparks if assigned.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Sparks detonate on contact — tanks may be required to clear using personal cooldowns.
+> Sparks detonate on contact — tanks may be required to clear using personal cooldowns.
 > </div>
 
 {: .healer .fs-3}
@@ -42,7 +42,7 @@ subtitle: Will of the Emperor
 > * Prepare cooldowns when Devastating Combo overlaps with add spawns.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Titan Sparks and extra Titan Gas add heavy ticking damage — plan throughput cooldown rotations carefully.
+> Titan Sparks and extra Titan Gas add heavy ticking damage — plan throughput cooldown rotations carefully.
 > </div>
 
 {: .ranged .fs-3}
@@ -51,7 +51,7 @@ subtitle: Will of the Emperor
 > * Watch for telegraphed boss arcs during Devastating Combo.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Ranged DPS may be assigned Spark clears. Use **mobility** and **immunities** if called on.
+> Ranged DPS may be assigned Spark clears. Use **mobility** and **immunities** if called on.
 > </div>
 
 {: .melee .fs-3}
@@ -59,7 +59,7 @@ subtitle: Will of the Emperor
 > * Keep uptime on Strength adds for faster kills.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Do **not** clear Sparks unless assigned — instant death risk. Follow safe positioning calls.
+> Do **not** clear Sparks unless assigned — instant death risk. Follow safe positioning calls.
 > </div>
 
 {: .everyone .fs-3}
@@ -67,7 +67,7 @@ subtitle: Will of the Emperor
 > * If you dodge all hits, gain a free **Opportunistic Strike** ability for big DPS.  
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Sparks target random players — stay aware and avoid them until the assigned clear call.
+> Sparks target random players — stay aware and avoid them until the assigned clear call.
 > </div>
 
 ---
@@ -79,7 +79,7 @@ subtitle: Will of the Emperor
 > * Call Devastating Combo timings loudly — full raid mobility required.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Titan Gas overlaps during this phase — pre-plan healing cooldowns and execute perfectly.
+> Titan Gas overlaps during this phase — pre-plan healing cooldowns and execute perfectly.
 > </div>
 
 {: .tank .fs-3}
@@ -87,7 +87,7 @@ subtitle: Will of the Emperor
 > * Swap targets if one tank is consistently failing Devastating Combo.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Expect 10 swings per combo — stricter positioning and communication required.
+> Expect 10 swings per combo — stricter positioning and communication required.
 > </div>
 
 {: .healer .fs-3}
@@ -95,7 +95,7 @@ subtitle: Will of the Emperor
 > * Save big cooldowns for combo overlaps + Titan Gas phases if heroic.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Stagger raid cooldowns across Gas phases — heavy, sustained AoE damage.
+> Stagger raid cooldowns across Gas phases — heavy, sustained AoE damage.
 > </div>
 
 {: .ranged .fs-3}
@@ -103,7 +103,7 @@ subtitle: Will of the Emperor
 > * Keep max distance when Sparks are present if heroic.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Watch Spark fixates — kite and call for clears early.
+> Watch Spark fixates — kite and call for clears early.
 > </div>
 
 {: .melee .fs-3}
@@ -111,15 +111,20 @@ subtitle: Will of the Emperor
 > * Execute Opportunistic Strikes whenever available.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Sparks force melee to reposition constantly — never tunnel vision DPS here.
+> Sparks force melee to reposition constantly — never tunnel vision DPS here.
 > </div>
 
 {: .everyone .fs-3}
 > * Clean execution wins this fight — dodge everything, manage Sparks, burn bosses.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** Extra Titan Gas cycles make the last minute of the fight chaotic — all mitigation cooldowns coordinated by RL.
+> Extra Titan Gas cycles make the last minute of the fight chaotic — all mitigation cooldowns coordinated by RL.
 > </div>
+
+---
+
+### 🥁 Bloodlust / Heroism Timing
+* **Use immediately** after Phase 1 starts — free DPS helps control add waves and maximize Opportunistic Strike windows.
 
 ---
 
@@ -145,10 +150,5 @@ subtitle: Will of the Emperor
 | Titan Sparks         | On add death       | Fixate random players, explode on contact.                  | Assigned clears only; use immunities/defensives.      |
 | Titan Gas Overlaps   | More frequent      | More uptime, stronger AoE damage than normal.               | Rotate healing CDs and personal defensives carefully. |
 | Extended Combos      | Same as normal    | Devastating Combo now has **10 swings** instead of 5.        | 100% perfection required; missing a dodge = death.    |
-
----
-
-### 🥁 Bloodlust / Heroism Timing
-* **Use immediately** after Phase 1 starts — free DPS helps control add waves and maximize Opportunistic Strike windows.
 
 ---
