@@ -13,6 +13,9 @@ subtitle: Feng
 
 #### Phase 1 - Spirit of the Staff (100% -> 75%)
 
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
+
 {: .everyone .fs-3}
 > * Stack on boss when Arcane Velocity is called from RL.
 > * Do NOT stack if you have Arcane Resonance debuff. Keep 6 yards distance from everyone.
@@ -35,7 +38,19 @@ subtitle: Feng
 {: .ranged .fs-3}
 > * Spread as to avoid Arcane Resonance.
 
+</div>
+  <div class="side-image">
+    Spread
+    <img src="{{site.url}}/MSV/assets/images/Feng_Staff_1.png" alt="Feng pull" />
+    Stack
+    <img src="{{site.url}}/MSV/assets/images/Feng_Staff_2.png" alt="Feng stack" />
+  </div>
+</div>
+
 #### Phase 2 - Spirit of the Shield (Heroic) (75% -> 50%)
+
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
 
 {: .everyone .fs-3}
 > * Cc Soul fragments when called.
@@ -64,7 +79,19 @@ subtitle: Feng
 > * Help cc Soul fragments when called.
 > * Kill Soul fragments when called.
 
+</div>
+  <div class="side-image">
+    Pull
+    <img src="{{site.url}}/MSV/assets/images/Feng_Shield_1.png" alt="Feng pull" />
+    Soul Fragments
+    <img src="{{site.url}}/MSV/assets/images/Feng_Shield_2.png" alt="Feng Soul Fragments" />
+  </div>
+</div>
+
 #### Phase 3 - Spirit of the Fists (50% - 25%)
+
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
 
 {: .raidlead .fs-3}
 > * Call for tank:
@@ -90,7 +117,17 @@ subtitle: Feng
 {: .melee .fs-3}
 > * Stand in the Nullification Barrier when called.
 
+</div>
+  <div class="side-image">
+    Pull
+    <img src="{{site.url}}/MSV/assets/images/Feng_Fists_1.png" alt="Feng pull" />
+  </div>
+</div>
+
 #### Phase 4 - Spirit of the Spear (25% - 0%)
+
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
 
 {: .everyone .fs-3}
 > * When you have the Wildfire Spark debuff, run to the designated area to drop it off.
@@ -111,6 +148,13 @@ subtitle: Feng
 
 {: .ranged .fs-3}
 > * Stack in middle.
+
+</div>
+  <div class="side-image">
+    Pull
+    <img src="{{site.url}}/MSV/assets/images/Feng_Spear_1.png" alt="Feng pull" />
+  </div>
+</div>
 
 ### 🧠 Key Mechanics & Responsibilities
 
