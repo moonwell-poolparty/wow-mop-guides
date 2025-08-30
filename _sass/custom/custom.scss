@@ -297,3 +297,18 @@ blockquote.everyone::before {
   color: white;
   cursor: pointer;
 }
+
+/* Example: text color for "everyone" callout title (generated via ::before) */
+blockquote::before {
+  color: #1e1e2f !important; /* or use your $variable */
+  font-weight: 600;          /* make it stand out */
+}
+
+blockquote.tank,
+blockquote.healer,
+blockquote.raidlead,
+blockquote.everyone,
+blockquote.melee,
+blockquote.ranged {
+  color: #0b2239; /* or your preferred color per callout */
+}
