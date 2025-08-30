@@ -53,7 +53,7 @@ subtitle: Stone Guard
 > <div markdown="block">
 > {: .heroic }
 > **Heroic:** Some ranged DPS may be **assigned as painters**.  
-> If assigned, grab gems and activate Energized Tiles **immediately when raid lead calls it**.
+> If assigned, grab assigned gems and activate Energized Tiles **immediately when raid lead calls it**.
 > </div>
 
 {: .melee .fs-3}
@@ -62,26 +62,18 @@ subtitle: Stone Guard
 > * Stay alert for Jasper Chains — avoid snapping lines.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** If assigned as a painter, grab gems and activate Energized Tiles quickly.  
-> Always confirm your painter group before each reset.
+> **Heroic:** Some melee DPS may be **assigned as painters**.  
+> If assigned, grab assigned gems and activate Energized Tiles **immediately when raid lead calls it**.
 > </div>
 
 {: .everyone .fs-3}
 > * **NEVER stand under Guardians** — cleave + stomps are lethal.
-> * Follow assigned **painter groups** on pull and after resets.
 > * Always listen for Overload and Petrification calls.
 > <div markdown="block">
 > {: .heroic }
-> **Heroic:** On pull, **10–14 painters** grab gems immediately and activate Energized Tiles fast.  
-> At **75%** and **40% HP**, new painter groups are assigned for each **tile reset**.  
-> During **quadruple Overloads**, stack tightly and follow cooldown rotations perfectly.
-> </div>
-
-  </div>
-  <div class="side-image">
-    <img src="{{site.url}}/MSV/assets/images/StoneGuard_Pull.png" alt="Stone Guard Positioning" />
-  </div>
-</div>
+> **Heroic:** On pull, **10–14 assigned painters** grab gems immediately and activate Energized Tiles fast.  
+> At **75%** and **40% HP**, painter groups are assigned for each **tile reset**.  
+> During **quadruple Overloads**, stack fast, tightly and follow cooldown rotations perfectly.
 
 ---
 
