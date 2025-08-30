@@ -358,3 +358,12 @@ blockquote.ranged {
   color: #1e293b; /* or your preferred color per callout */
   font-weight: 600;          /* make it stand out */
 }
+
+p.heroic::before {
+  color: #1e293b; // or your chosen text color
+  font-weight: 800;
+}
+p.heroic {
+  color: #1e293b; // or your chosen text color
+  font-weight: 600;
+}

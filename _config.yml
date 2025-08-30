@@ -29,6 +29,6 @@ callouts:
     color: indigo-glow
   heroic:
     title: Heroic
-    color: amber-glow
+    color: slate
 
 callouts_opacity: 0.75
