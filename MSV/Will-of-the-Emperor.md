@@ -149,12 +149,6 @@ subtitle: Will of the Emperor
 ---
 
 ### 🥁 Bloodlust / Heroism Timing
-* Use **on pull** for add control if struggling early,  
-  or **during first Titan Gas phase** for a heavy burn.
-
----
-
-### 🥁 Bloodlust / Heroism Timing
 * **Use immediately** after Phase 1 starts — free DPS helps control add waves and maximize Opportunistic Strike windows.
 
 ---
