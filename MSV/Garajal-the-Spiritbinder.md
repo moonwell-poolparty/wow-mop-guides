@@ -13,6 +13,9 @@ subtitle: Garajal
 
 #### Phase 1 (100% -> 20%)
 
+<div class="content-with-image" markdown="1">
+  <div class="main-content" markdown="1">
+
 {: .everyone .fs-3}
 > * Use personal defensive when Voodoo Dolled.
 > * On your toes for spirit totem calls.
@@ -46,6 +49,13 @@ subtitle: Garajal
 {: .melee .fs-3}
 > * Kill as many Shadowy minions as possible if in spirit realm before going up.
 > * Kill Severer of Souls in spirit realm if RL calls it, to help tank.
+
+</div>
+  <div class="side-image">
+    Pull
+    <img src="{{site.url}}/MSV/assets/images/Garajal_1.png" alt="Pull" />
+  </div>
+</div>
 
 #### Phase 2 (20% -> 0%)
 
