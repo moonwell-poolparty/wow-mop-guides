@@ -10,7 +10,6 @@ subtitle: Lei Shi
 
 ### ✅ Quick Role Checklist
 
-#### Common – Normal & Heroic
 {: .raidlead .fs-3}
 > * Organize triangle raid formation—two tanks and raid form triangle—with Lei Shi in the center to facilitate clean tank swaps.  
 > <div markdown="block">
@@ -48,11 +47,13 @@ subtitle: Lei Shi
 
 ---
 
-### 🧠 Key Mechanics & Responsibilities
-
-#### 🔥 Bloodlust / Heroism Timing
+### 🔥 Bloodlust / Heroism Timing
 * **Recommended:** Use **after the final Protect phase** (around 20% HP) to quickly burn Lei Shi before Afraid stacks and Spray casts overwhelm the raid.  
 * **Alternative:** Use on pull if your raid struggles to push her through first Protect quickly — but expect a longer and harder final burn.  
+
+--
+
+### 🧠 Key Mechanics & Responsibilities
 
 ---
 
