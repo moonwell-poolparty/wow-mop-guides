@@ -6,7 +6,7 @@ nav_order: 2
 subtitle: Tsulong
 ---
 
-# [Tsulong](https://www.wowhead.com/mop-classic/npc=60585/tsulong)
+# [Tsulong](https://www.wowhead.com/mop-classic/npc=62442/tsulong)
 
 ###  Quick Role Checklist
 
